@@ -1,0 +1,14 @@
+#postbox-container-1 .postbox {
+    padding: 10px;
+}
+#postbox-container-1 .rating-stars a {
+	text-decoration: none;
+}
+input[name="tlap_add_analytics_option[tlap_excludepage]"] {
+    width: 70% !important;
+    display: inline-block !important;
+}
+/* Icons */
+.dashicons {
+    margin-right: 4px;
+}

@@ -1,0 +1,1295 @@
+# Translation of Plugins - Robin Image Optimizer – Unlimited Image Optimization, WebP &amp; AVIF - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - Robin Image Optimizer – Unlimited Image Optimization, WebP &amp; AVIF - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2025-10-20 12:43:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Robin Image Optimizer – Unlimited Image Optimization, WebP &amp; AVIF - Stable (latest release)\n"
+
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:449
+msgid "Enter the option name to search..."
+msgstr "Введите название опции для поиска..."
+
+#: views/modal-webp-conversion.php:47
+msgid "Remember that the conversion of a large number of images may take some time depending on your server and network speed."
+msgstr "Помните, что преобразование большого количества изображений может занять некоторое время в зависимости от вашего сервера и скорости сети."
+
+#: views/modal-webp-conversion.php:2
+msgid "What you need to know before starting conversion."
+msgstr "Что вам нужно знать, прежде чем начинать конвертацию."
+
+#: admin/includes/classes/class-rio-optimize-template.php:248
+#: admin/includes/classes/class-rio-optimize-template.php:260
+#: admin/includes/classes/class-rio-optimize-template.php:325
+#: admin/includes/classes/class-rio-optimize-template.php:337
+#: admin/includes/classes/class-rio-optimize-template.php:378
+#: admin/includes/classes/class-rio-optimize-template.php:392
+msgid "Convert in progress"
+msgstr "Конвертация"
+
+#: admin/includes/classes/class-rio-optimize-template.php:138
+#: admin/includes/classes/class-rio-optimize-template.php:293
+msgid "WebP Filesize:"
+msgstr "Размер файла WebP:"
+
+#: admin/includes/classes/class-rio-optimize-template.php:250
+#: admin/includes/classes/class-rio-optimize-template.php:327
+#: admin/includes/classes/class-rio-optimize-template.php:382
+#: admin/pages/class-rio-statistic.php:344
+#: views/part-bulk-convert-webp-button.php:28
+#: views/part-bulk-convert-webp-button.php:34
+msgid "Convert to WebP"
+msgstr "Конвертировать в WebP"
+
+#: admin/pages/class-rio-statistic.php:338
+msgid "Convert now"
+msgstr "Конвертировать"
+
+#: admin/pages/class-rio-statistic.php:337
+msgid "Select conversion way"
+msgstr "Выберите способ конвертации"
+
+#: admin/pages/class-rio-statistic.php:317
+msgid "Stop background conversion"
+msgstr "Остановить фоновую конвертацию"
+
+#: admin/pages/class-rio-statistic.php:315
+msgid "Background conversion"
+msgstr "Фоновая конвертация"
+
+#: admin/pages/class-rio-statistic.php:310
+#: views/part-bulk-convert-avif-button.php:32
+msgid "Stop schedule conversion"
+msgstr "Остановить запланированную конвертацию"
+
+#: admin/pages/class-rio-statistic.php:308
+msgid "Scheduled conversion"
+msgstr "Запланированная конверсия"
+
+#: views/part-bulk-optimization-servers.php:28
+msgid "The all images are limited, including thumbnails"
+msgstr "Все изображения ограничены, включая миниатюры"
+
+#: admin/pages/class-rio-statistic.php:316
+#: views/part-bulk-optimization-button.php:29
+msgid "Stop background optimization"
+msgstr "Остановить фоновую оптимизацию"
+
+#: admin/pages/class-rio-statistic.php:314
+msgid "Background optimization"
+msgstr "Оптимизация фона"
+
+#: admin/pages/class-rio-settings.php:503
+msgid "Optimization will occur in the background constantly"
+msgstr "Оптимизация будет происходить в фоновом режиме"
+
+#: admin/pages/class-rio-settings.php:502
+msgid "Background"
+msgstr "Фоновая"
+
+#: admin/pages/class-rio-settings.php:498
+msgid "Optimization will take place on a schedule"
+msgstr "Оптимизация будет происходить по расписанию"
+
+#: admin/pages/class-rio-settings.php:497
+msgid "Scheduled"
+msgstr "Запланированная"
+
+#: admin/pages/class-rio-settings.php:493
+msgid "Background optimization type"
+msgstr "Тип фоновой оптимизации"
+
+#: admin/pages/class-rio-settings.php:486
+msgid "Settings for scheduled and background image optimization."
+msgstr "Настройки фоновой и запланированной оптимизации."
+
+#: admin/pages/class-rio-settings.php:486
+msgid "Scheduled and background optimization"
+msgstr "Фоновая и запланированная оптимизация"
+
+#: libs/factory/logger/pages/class-logger-admin-page.php:37
+msgid "Plugin log"
+msgstr "Журнал плагина"
+
+#: libs/factory/logger/pages/class-logger-admin-page.php:36
+#: libs/factory/logger/pages/class-logger-admin-page.php:70
+#: libs/factory/logger/pages/class-logger-impressive-lite.php:73
+#: libs/factory/logger/pages/class-logger-impressive-lite.php:97
+#: libs/factory/logger/pages/class-logger-impressive-page.php:36
+#: libs/factory/logger/pages/class-logger-impressive-page.php:68
+#: libs/factory/logger/pages/class-logger-impressive-page.php:92
+msgid "Plugin Log"
+msgstr "Журнал плагина"
+
+#. translators: %d is the number of minutes
+#: libs/factory/processing/includes/classes/wp-background-process.php:487
+msgid "Every %d Minutes"
+msgstr "Каждые %d минут(ы)"
+
+#: libs/addons/includes/classes/class.custom-folders.php:88
+#: libs/addons/includes/classes/class.custom-folders.php:89
+msgid "Other Media"
+msgstr "Другие медиа"
+
+#: admin/pages/class-rio-settings.php:215
+msgid "This mode allows you to configure your own compression ratio."
+msgstr "Этот режим позволяет настроить собственную степень сжатия."
+
+#: admin/includes/class-wrio-subscribe-widget.php:96
+#: admin/includes/class-wrio-subscribe-widget.php:153
+#: admin/includes/class-wrio-subscribe-widget.php:160
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:412
+msgid "Subscribe"
+msgstr "Подписаться"
+
+#: admin/includes/class-wrio-subscribe-widget.php:92
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:400
+msgid "Enter your email address"
+msgstr "Введите свой адрес электронной почты"
+
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:387
+msgid "Subscribe to plugin’s newsletter"
+msgstr "Подписаться на рассылку новостей"
+
+#: views/part-bulk-optimization-servers.php:34
+msgid "Date when the limit is topped up"
+msgstr "Дата, когда лимит будет увеличен"
+
+#: libs/factory/templates/pages/class-page-setup.php:176
+msgid "Not now"
+msgstr "Не сейчас"
+
+#: libs/factory/templates/pages/class-page-setup.php:81
+msgid "Setup"
+msgstr "Установка"
+
+#: libs/factory/templates/pages/class-page-setup.php:75
+#: libs/factory/templates/pages/class-page-setup.php:76
+msgid "Setup master"
+msgstr "Мастер установки"
+
+#: libs/factory/templates/pages/class-pages-components.php:169
+msgid "These are components of the plugin bundle. When you activate the plugin, all the components turned on by default. If you don’t need some function, you can easily turn it off on this page."
+msgstr "Это компоненты пакета плагинов. При активации плагина все компоненты включены по умолчанию. Если вам не нужна какая-либо функция, вы можете легко отключить ее на этой странице."
+
+#: libs/factory/templates/pages/class-pages-components.php:103
+msgid "An unknown error occurred while updating plugin components. Please contact the plugin support team to resolve this issue."
+msgstr "При обновлении компонентов плагина произошла неизвестная ошибка. Пожалуйста, свяжитесь со службой поддержки плагина, чтобы решить эту проблему."
+
+#: libs/factory/templates/pages/class-pages-components.php:95
+msgid "To use premium components, you need activate a license!"
+msgstr "Чтобы использовать премиум-компоненты, вам необходимо активировать лицензию!"
+
+#: libs/factory/templates/pages/class-pages-components.php:87
+msgid "Components have been successfully updated to the latest version."
+msgstr "Компоненты успешно обновлены до последней версии."
+
+#: libs/factory/templates/pages/class-pages-components.php:45
+msgid "More features for plugin"
+msgstr "Дополнительные функции для плагина"
+
+#: libs/factory/templates/pages/class-pages-components.php:44
+msgid "Components"
+msgstr "Компоненты"
+
+#: libs/factory/templates/pages/setup-parts/class-step-custom.php:32
+msgid "Skip"
+msgstr "Пропустить"
+
+#: libs/factory/templates/pages/setup-parts/class-step-custom.php:21
+msgid "Finish"
+msgstr "Готово"
+
+#: libs/factory/templates/pages/setup-parts/class-step-custom.php:18
+#: libs/factory/templates/pages/setup-parts/class-step-form.php:92
+msgid "Continue"
+msgstr "Продолжить"
+
+#: libs/factory/core/includes/components/class-install-component-button.php:402
+#: libs/factory/templates/pages/class-pages-components.php:223
+msgid "Read more"
+msgstr "Читать далее"
+
+#: libs/factory/core/includes/components/class-install-component-button.php:401
+msgid "Preparation..."
+msgstr "Подготовка..."
+
+#: libs/factory/core/includes/components/class-install-component-button.php:400
+msgid "Please wait..."
+msgstr "Подождите..."
+
+#: libs/factory/core/includes/components/class-install-component-button.php:399
+msgid "Delete"
+msgstr "Удалить"
+
+#: admin/pages/class-rio-license.php:550
+#: libs/factory/core/includes/components/class-install-component-button.php:398
+msgid "Deactivate"
+msgstr "Деактивировать"
+
+#: libs/factory/core/includes/components/class-install-component-button.php:397
+msgid "Install"
+msgstr "Установить"
+
+#: admin/pages/class-rio-license.php:554
+#: libs/factory/core/includes/components/class-install-component-button.php:396
+msgid "Activate"
+msgstr "Активировать"
+
+#: libs/factory/core/ajax/install-addons.php:197
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "Невозможно подключиться к файловой системе. Подтвердите свои учетные данные."
+
+#: libs/factory/core/ajax/install-addons.php:149
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "Извините, вам не разрешено устанавливать плагины на этот сайт."
+
+#: libs/factory/core/ajax/install-addons.php:138
+msgid "No plugin specified."
+msgstr "Не указан плагин."
+
+#: libs/factory/core/ajax/install-addons.php:111
+msgid "Required attribute [component_name] is empty."
+msgstr "Обязательный атрибут [component_name] пуст."
+
+#: libs/factory/core/ajax/install-addons.php:93
+msgid "An unknown error occurred during the activation of the component."
+msgstr "При активации компонента произошла неизвестная ошибка."
+
+#: libs/factory/core/ajax/install-addons.php:43
+msgid "You are trying to perform an invalid action."
+msgstr "Вы пытаетесь выполнить недопустимое действие."
+
+#: libs/factory/core/ajax/install-addons.php:27
+msgid "Required attributes are not passed or empty."
+msgstr "Обязательные атрибуты не переданы или пусты."
+
+#: admin/pages/class-rio-settings.php:210
+msgid "This mode uses the optimal settings for Google Page Speed"
+msgstr "В этом режиме используются оптимальные настройки для Google PageSpeed"
+
+#: admin/pages/class-rio-settings.php:209
+msgid "G PageSpeed"
+msgstr "G PageSpeed"
+
+#: admin/pages/class-rio-settings.php:455
+msgid "Choose which formats of images should be optimized and uncheck those that do not need optimization."
+msgstr "Выберите, какие форматы изображений должны быть оптимизированы, и снимите галочки с тех, которые не нуждаются в оптимизации."
+
+#: admin/pages/class-rio-settings.php:445
+msgid "Optimize formats"
+msgstr "Форматы для оптимизации"
+
+#: admin/pages/class-rio-settings.php:382
+msgid "Optimization will start with new images in the media library"
+msgstr "Оптимизация начнётся с новых изображений в библиотеке медиафайлов"
+
+#: admin/pages/class-rio-settings.php:381
+msgid "Descending"
+msgstr "По убыванию"
+
+#: admin/pages/class-rio-settings.php:377
+msgid "Optimization will start with old images in the media library"
+msgstr "Оптимизация начнётся со старых изображений в библиотеке медиафайлов"
+
+#: admin/pages/class-rio-settings.php:376
+msgid "Ascending"
+msgstr "По возрастанию"
+
+#: admin/pages/class-rio-settings.php:372
+msgid "Optimization order"
+msgstr "Порядок оптимизации"
+
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:447
+msgid "Can't find the settings you need? Use the search by the plugin options:"
+msgstr "Не можете найти нужные настройки? Воспользуйтесь поиском по настройкам плагина:"
+
+#. Plugin URI of the plugin
+#: robin-image-optimizer.php
+msgid "https://robinoptimizer.com"
+msgstr "https://robinoptimizer.com"
+
+#. translators: %s is the file path
+#: includes/classes/class-rio-attachment.php:291
+msgid "File \"(%s)\" doesn't exist"
+msgstr "Файл \"(%s)\" не существует"
+
+#. translators: %d is the attachment ID
+#: includes/classes/class-rio-attachment.php:288
+msgid "Attachment #%d doesn't have metadata, the image may be damaged."
+msgstr "Во вложении #%d нет метаданных, возможно, изображение повреждено."
+
+#: includes/classes/class-rio-attachment.php:284
+msgid "Attachment cannot be optimized."
+msgstr "Вложение не может быть оптимизировано."
+
+#: views/part-settings-page-error-log-options.php:22
+msgid "Option enables error logging on frontend. If for some reason webp images are not displayed on the front-end, you can use this option to catch errors and send this report to the plugin support service."
+msgstr "Опция включает ведение журнала в интерфейсе сайта. Если по какой-то причине webp-изображения не отображаются в интерфейсе, вы можете использовать эту опцию для обнаружения ошибок и отправки этого отчета в службу поддержки плагинов."
+
+#: views/part-settings-page-error-log-options.php:19
+msgid "Keep an error log on frontend"
+msgstr "Включить журнал ошибок на фронтенде"
+
+#: views/part-settings-page-error-log-options.php:13
+msgid "Additional logging levels. Enable these options only when the plugin support service asks for it. If you use logging always, it can slow down your site."
+msgstr "Дополнительные уровни ведения журнала. Включайте эти опции только тогда, когда об этом просит служба поддержки плагинов. Если вы всегда используете ведение журнала, это может замедлить работу вашего сайта."
+
+#: includes/classes/class-rio-bulk-optimization.php:546
+#: includes/classes/class-rio-bulk-optimization.php:598
+#: includes/classes/class-rio-bulk-optimization.php:679
+msgid "Unknown error. Enable error log on the plugin's settings page, then check the error report on the Error Log page. You can export the error report and send it to the support service of the plugin."
+msgstr "Неизвестная ошибка. Включите журнал ошибок на странице настроек плагина, затем проверьте отчет об ошибке на странице Журнала ошибок. Вы можете экспортировать отчет об ошибке и отправить его в службу поддержки плагина."
+
+#: libs/addons/views/part-settings-page-webp-options.php:94
+msgid "Replace image URLs"
+msgstr "Заменять URLы изображений"
+
+#: libs/addons/views/part-settings-page-webp-options.php:47
+msgid "Server"
+msgstr "Сервер"
+
+#: libs/addons/views/part-settings-page-webp-options.php:33
+msgid "Redirection (via .htaccess)"
+msgstr "Перенаправление (через .htaccess)"
+
+#: views/part-bulk-optimization-log.php:124
+msgid "You don't have optimized images."
+msgstr "У вас нет оптимизированных изображений."
+
+#: views/part-bulk-optimization-log.php:118
+msgid "Overall Saving"
+msgstr "Общая экономия"
+
+#: views/part-bulk-optimization-log.php:116
+msgid "Compressed thumbnails"
+msgstr "Сжатые миниатюры"
+
+#: views/part-bulk-optimization-log.php:112
+msgid "File name"
+msgstr "Имя файла"
+
+#: views/part-bulk-optimization-log.php:105
+msgid "Optimization log shows the last 100 optimized images. You can check the quality of the image by clicking on the file name."
+msgstr "Журнал оптимизации показывает последние 100 оптимизированных изображений. Вы можете проверить качество изображения, нажав на имя файла."
+
+#: views/part-bulk-optimization-log.php:104
+msgid "Optimization log"
+msgstr "Журнал оптимизации"
+
+#: views/part-bulk-optimization-log.php:114
+#: views/part-bulk-optimization-statistic.php:56
+msgid "Optimized size"
+msgstr "Оптимизированный размер"
+
+#: views/part-bulk-optimization-statistic.php:49
+msgid "Original size"
+msgstr "Оригинальный размер"
+
+#: views/modal-bulk-optimization.php:47
+msgid "Remember that the optimization of a large number of images may take some time depending on your server and network speed."
+msgstr "Помните, что оптимизация большого количества изображений может занять некоторое время в зависимости от вашего сервера и скорости сети."
+
+#: views/modal-bulk-optimization.php:2
+msgid "What you need to know before starting optimization."
+msgstr "Что нужно знать перед началом оптимизации."
+
+#: views/part-bulk-optimization-tabs.php:42
+msgid "Nextgen gallery"
+msgstr "Галерея NextGen"
+
+#: views/part-bulk-optimization-tabs.php:32
+msgid "Custom folders"
+msgstr "Пользовательские папки"
+
+#: views/part-bulk-optimization-tabs.php:23
+msgid "Media library"
+msgstr "Библиотека файлов"
+
+#: includes/classes/class-rio-backup.php:329
+msgid "It is not possible to create a temporary file, the backup folder is not writable."
+msgstr "Невозможно создать временный файл, папка резервной копии недоступна для записи."
+
+#: includes/classes/class-rio-backup.php:316
+msgid "Could not copy the file to the temporary directory"
+msgstr "Не удалось скопировать файл во временный каталог"
+
+#: includes/classes/class-rio-cron.php:71
+msgid "daily"
+msgstr "ежедневно"
+
+#: admin/pages/class-rio-settings.php:562
+msgid "Specify the number of images that will be optimized during the job. For example, if you enter 5 and select 5 min, the plugin will optimize 5 images every 5 minutes."
+msgstr "Укажите количество изображений, которые будут оптимизированы во время выполнения задания. Например, если вы введете 5 и выберете 5 мин, плагин будет оптимизировать 5 изображений каждые 5 минут."
+
+#: admin/pages/class-rio-settings.php:557
+msgid "Images per iteration"
+msgstr "Изображений за раз"
+
+#: admin/pages/class-rio-settings.php:551
+msgid "Select time at which the task will be repeated."
+msgstr "Выберите время, через которое задание будет повторено."
+
+#: admin/pages/class-rio-settings.php:550
+msgid "Run every"
+msgstr "Запускать каждые"
+
+#: admin/pages/class-rio-settings.php:547
+msgid "Day"
+msgstr "День"
+
+#: admin/pages/class-rio-settings.php:546
+msgid "Hour"
+msgstr "Час"
+
+#: libs/factory/logger/pages/class-logger-admin-page.php:91
+#: libs/factory/logger/pages/class-logger-impressive-lite.php:87
+#: libs/factory/logger/pages/class-logger-impressive-page.php:82
+msgid "Working..."
+msgstr "Обработка..."
+
+#: libs/factory/logger/pages/class-logger-admin-page.php:87
+#: libs/factory/logger/pages/class-logger-impressive-lite.php:83
+#: libs/factory/logger/pages/class-logger-impressive-page.php:78
+msgid "Export Debug Information"
+msgstr "Экспорт отладочной информации"
+
+#: admin/pages/class-rio-log.php:101
+#: libs/factory/logger/pages/class-logger-impressive-lite.php:36
+#: libs/factory/logger/pages/class-logger-impressive-page.php:37
+msgid "Plugin debug report"
+msgstr "Отчет об отладке плагина"
+
+#: admin/pages/class-rio-license.php:80
+msgid "Robin image optimizer Premium"
+msgstr "Robin оптимизатор изображений Premium"
+
+#: admin/pages/class-rio-license.php:110
+msgid "Product activation"
+msgstr "Активация продукта"
+
+#: admin/pages/class-rio-license.php:109 admin/pages/class-rio-license.php:156
+#: admin/pages/class-rio-license.php:157 admin/pages/class-rio-license.php:352
+#: admin/pages/class-rio-license.php:503 views/clearfy-component-card.php:37
+msgid "License"
+msgstr "Лицензия"
+
+#: admin/pages/class-rio-settings.php:682
+msgid "The backup folder was cleared."
+msgstr "Папка с резервными копиями очищена."
+
+#: admin/pages/class-rio-settings.php:680
+msgid "Restore completed."
+msgstr "Восстановление завершено."
+
+#: admin/pages/class-rio-settings.php:672
+msgid "Clear Backup"
+msgstr "Очистить резервные копии"
+
+#: admin/pages/class-rio-settings.php:659
+msgid "You can restore the original images from a backup or clear them."
+msgstr "Вы можете восстановить оригинальные изображения из резервной копии или очистить их."
+
+#: admin/pages/class-rio-settings.php:656
+msgid "Manage backups"
+msgstr "Управление резервными копиями"
+
+#: admin/pages/class-rio-settings.php:479
+msgid "Choose which sizes of thumbnails should be optimized and uncheck those that do not need optimization."
+msgstr "Выберите какие размеры миниатюр следует оптимизировать и снимите галочки с тех, оптимизация которых не нужна."
+
+#: admin/pages/class-rio-settings.php:473
+msgid "Optimize thumbnails"
+msgstr "Оптимизировать миниатюры"
+
+#: admin/pages/class-rio-settings.php:432
+msgid "Enter the maximum height (px)"
+msgstr "Максимальная высота (px)"
+
+#: admin/pages/class-rio-settings.php:419
+msgid "Enter the maximum width (px)"
+msgstr "Максимальная ширина (px)"
+
+#: admin/pages/class-rio-settings.php:403
+msgid "When you upload images from a camera or stock, they may be too high resolution and it is not necessary for web. The option allows you to automatically change images resolution on upload."
+msgstr "Когда вы закачиваете изображения с камеры или фотостока, они могут быть слишком высокого разрешения и для веба это не нужно. Опция позволяет автоматически изменять разрешение изображений при загрузке."
+
+#: admin/pages/class-rio-settings.php:398
+#: includes/classes/processors/class-rio-server-robin.php:83
+msgid "Resizing large images"
+msgstr "Изменение размера больших изображений"
+
+#: admin/pages/class-rio-settings.php:365
+msgid "Here you can specify additional image optimization options."
+msgstr "Здесь вы можете задать дополнительные параметры оптимизации изображений."
+
+#: admin/pages/class-rio-settings.php:365
+msgid "Optimization"
+msgstr "Оптимизация"
+
+#: admin/pages/class-rio-settings.php:319
+msgid "Convert JPEG & PNG images into WebP format and replace them for browsers which support it. Unsupported browsers would be skipped."
+msgstr "Конвертирует изображения JPEG и PNG в формат WebP и заменяет их в браузерах, которые его поддерживают."
+
+#: admin/pages/class-rio-settings.php:424
+#: admin/pages/class-rio-settings.php:437
+msgid "Set the maximum images resolution on the long side. For horizontal images, this will be the width, and for vertical images - the height. The resolution of the images will be changed proportionally according to the set value."
+msgstr "Задайте максимальное разрешение изображений по длинной стороне. Для горизонтальных изображений это будет ширина, а для вертикальных — высота. Разрешение изображений будет изменено пропорционально в соответствии с заданным значением."
+
+#: admin/pages/class-rio-settings.php:359
+msgid "EXIF is information stored in photos: camera model, shutter speed, exposure compensation, ISO, GPS, etc. By default, the plugin removes EXIF extended data. If your project is dedicated to photography and you need to display this data, then enable this option."
+msgstr "EXIF - это информация, хранящаяся в фотографиях: модель камеры, скорость затвора, компенсация экспозиции, ISO, GPS и т. Д. По умолчанию плагин удаляет расширенные данные EXIF. Если ваш проект посвящён фотографии и вам нужно отображать эти данные, то включите эту опцию."
+
+#: admin/pages/class-rio-settings.php:314
+msgid "Convert Images to WebP"
+msgstr "Конвертация в WebP"
+
+#: admin/pages/class-rio-settings.php:294
+msgid "Enable error logging. The log will be displayed on a separate tab."
+msgstr "Включить ведение журнала ошибок. Он будет отображаться на отдельной вкладке."
+
+#: admin/pages/class-rio-log.php:100 admin/pages/class-rio-log.php:129
+#: admin/pages/class-rio-settings.php:289
+msgid "Error Log"
+msgstr "Журнал ошибок"
+
+#: admin/pages/class-rio-settings.php:280
+msgid "Before optimizing, all your images will be saved in a separate folder for future recovery."
+msgstr "Перед началом оптимизации, все ваши изображения будут сохранены в отдельной папке для возможности восстановления в будущем."
+
+#: admin/pages/class-rio-settings.php:275
+msgid "Backup images"
+msgstr "Резервное копирование изображений"
+
+#: admin/pages/class-rio-settings.php:266
+msgid "Automatically compress all images that you upload directly to the WordPress media library, when editing pages and posts or using themes and plugins."
+msgstr "Автоматическое сжатие всех изображений, которые вы загружаете в медиабиблиотеку WordPress напрямую, при редактировании страниц и записей или с использованием тем и плагинов."
+
+#: admin/pages/class-rio-settings.php:261
+msgid "Auto optimization on upload"
+msgstr "Автоматическая оптимизация изображений при загрузке"
+
+#: admin/pages/class-rio-settings.php:247
+msgid "Enter custom quality"
+msgstr "Введите пользовательское качество"
+
+#: admin/pages/class-rio-settings.php:222
+msgid "Select the compression mode appropriate for your case."
+msgstr "Выберите режим сжатия, подходящий для вашей ситуации."
+
+#: admin/pages/class-rio-settings.php:205
+msgid "This mode will use all available optimization methods for maximum image compression. The file size will be reduced approximately 7 times. The quality of some images may deteriorate slightly. Use this mode if you need the maximum weight reduction, and you are ready to accept the loss of image quality."
+msgstr "Этот режим будет использовать все доступные методы оптимизации для максимального сжатия изображения. Размер файлов уменьшится приблизительно в 7 раз. Качество некоторых изображений может немного ухудшиться. Используйте этот режим, если вам требуется максимальное снижение веса, и вы готовы смириться с потерей качества изображений."
+
+#: admin/includes/classes/class-rio-optimize-template.php:164
+#: admin/includes/classes/class-rio-optimize-template.php:219
+#: admin/pages/class-rio-settings.php:199
+msgid "Lossy"
+msgstr "С потерями"
+
+#: admin/includes/classes/class-rio-optimize-template.php:162
+#: admin/includes/classes/class-rio-optimize-template.php:201
+#: admin/pages/class-rio-settings.php:194
+msgid "Lossless"
+msgstr "Без потерь"
+
+#: admin/pages/class-rio-settings.php:190
+msgid "Compression mode"
+msgstr "Режим сжатия"
+
+#: admin/pages/class-rio-settings.php:182
+msgid "Main Settings"
+msgstr "Основные настройки"
+
+#: admin/pages/class-rio-settings.php:76
+msgid "Plugin configuration"
+msgstr "Конфигурация плагина"
+
+#: admin/pages/class-rio-statistic.php:309
+#: views/part-bulk-optimization-button.php:29
+msgid "Stop schedule optimization"
+msgstr "Остановить запланированную оптимизацию"
+
+#: admin/pages/class-rio-settings.php:200
+msgid "This mode provides an ideal optimization of your images without significant quality loss. The file size will be reduced approximately 5 times with a slight decrease in image quality. In most cases that cannot be seen with the naked eye."
+msgstr "Этот режим обеспечивает идеальную оптимизацию ваших изображений без существенных потерь качества. Размер файлов уменьшиться приблизительно в 5 раз при незначительном снижении качества изображений. Чаще всего, невооружённым взглядом это даже не заметно."
+
+#: admin/pages/class-rio-settings.php:195
+msgid "This mode provides lossless compression and your images will be optimized without visible changes. If you want an ideal image quality, we recommend this mode. The size of the files will be reduced approximately 2 times. If this is not enough for you, try other modes."
+msgstr "Этот режим обеспечивает сжатие без потерь и ваши изображения будут оптимизированы без видимых изменений. Если вы хотите идеальное качество изображений, мы рекомендуем этот режим. Размер фалов уменьшится приблизительно в 2 раза. Если вам этого недостаточно, попробуйте другие режимы."
+
+#: admin/pages/class-rio-statistic.php:354
+msgid "Stop"
+msgstr "Остановить"
+
+#: admin/pages/class-rio-statistic.php:352
+msgid "Completed"
+msgstr "Завершено"
+
+#: admin/pages/class-rio-statistic.php:351
+msgid "Resume"
+msgstr "Возобновить"
+
+#: admin/pages/class-rio-statistic.php:350
+msgid "Do you want to start optimization without backup?"
+msgstr "Вы хотите начать оптимизацию без возможности восстановления?"
+
+#: admin/pages/class-rio-statistic.php:334
+#: admin/pages/class-rio-statistic.php:341
+msgid "All images from the media library are optimized."
+msgstr "Все изображения из медиабиблиотеки оптимизированы."
+
+#: admin/pages/class-rio-statistic.php:348
+msgid "To start optimizing, you must complete migration from old plugin version."
+msgstr "Чтобы начать оптимизацию, вы должны завершить миграцию со старой версии плагина."
+
+#: admin/pages/class-rio-statistic.php:307
+msgid "Scheduled optimization"
+msgstr "Запланированная оптимизация"
+
+#: admin/pages/class-rio-statistic.php:331
+msgid "Optimize now"
+msgstr "Оптимизировать сейчас"
+
+#: admin/pages/class-rio-statistic.php:330
+msgid "Select optimization way"
+msgstr "Выберите способ оптимизации"
+
+#: admin/pages/class-rio-statistic.php:328
+msgid "Confirm"
+msgstr "Подтвердить"
+
+#: admin/pages/class-rio-statistic.php:321
+msgid "Your selected optimization server is down. This means that you cannot optimize images through this server. Try selecting another optimization server."
+msgstr "Выбранный вами сервер оптимизации не доступен. Это означает, что вы не можете оптимизировать изображения через этот сервер. Попробуйте выбрать другой сервер оптимизации."
+
+#: admin/pages/class-rio-statistic.php:138
+msgid "Bulk optimization"
+msgstr "Массовая оптимизация"
+
+#: admin/pages/class-rio-statistic.php:87
+#: includes/classes/class-rio-media-library.php:634
+msgid "Robin Image Optimizer"
+msgstr "Robin Image Optimizer"
+
+#: admin/pages/class-rio-statistic.php:89
+msgid "Compress bulk of images"
+msgstr "Массовое сжатие изображений"
+
+#. Plugin Name of the plugin
+#: robin-image-optimizer.php views/clearfy-component-card.php:24
+msgid "Robin image optimizer"
+msgstr "Robin image optimizer"
+
+#: admin/includes/classes/class-rio-optimize-template.php:274
+#: admin/includes/classes/class-rio-optimize-template.php:351
+msgid "Restore original"
+msgstr "Восстановить оригинал"
+
+#: admin/includes/classes/class-rio-optimize-template.php:271
+#: admin/includes/classes/class-rio-optimize-template.php:348
+msgid "Recovery in progress"
+msgstr "Выполняется восстановление"
+
+#: admin/includes/classes/class-rio-optimize-template.php:195
+#: admin/includes/classes/class-rio-optimize-template.php:212
+#: admin/includes/classes/class-rio-optimize-template.php:230
+#: admin/includes/classes/class-rio-optimize-template.php:314
+#: admin/includes/classes/class-rio-optimize-template.php:365
+msgid "Optimization in progress"
+msgstr "Выполняется оптимизация"
+
+#: admin/includes/classes/class-rio-optimize-template.php:183
+msgid "Error Message:"
+msgstr "Сообщение об ошибке:"
+
+#: admin/includes/classes/class-rio-optimize-template.php:178
+msgid "Overall Saving:"
+msgstr "Общая экономия:"
+
+#: admin/includes/classes/class-rio-optimize-template.php:174
+msgid "Thumbnails Optimized:"
+msgstr "Оптимизированные миниатюры:"
+
+#: admin/includes/classes/class-rio-optimize-template.php:166
+#: admin/includes/classes/class-rio-optimize-template.php:237
+#: admin/pages/class-rio-settings.php:204
+msgid "High"
+msgstr "Высокий"
+
+#: admin/includes/classes/class-rio-optimize-template.php:158
+#: admin/pages/class-rio-settings.php:214
+msgid "Custom"
+msgstr "Пользовательский"
+
+#: admin/includes/classes/class-rio-optimize-template.php:152
+msgid "Level:"
+msgstr "Уровень:"
+
+#: admin/includes/classes/class-rio-optimize-template.php:149
+#: admin/includes/classes/class-rio-optimize-template.php:287
+msgid "Original Filesize:"
+msgstr "Размер оригинала:"
+
+#: admin/includes/classes/class-rio-optimize-template.php:133
+msgid "New Filesize:"
+msgstr "Новый размер файла:"
+
+#: admin/includes/sidebar-widgets.php:20
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:350
+msgid "Having Issues?"
+msgstr "Возникли проблемы?"
+
+#: admin/ajax/meta-migrations.php:160
+msgid "Finishing-up..."
+msgstr "Заканчиваю..."
+
+#. translators: %s is the number of items left to migrate
+#: admin/ajax/meta-migrations.php:149
+msgid "left to migrate: %s items"
+msgstr "осталось перенести: %s элементов"
+
+#: admin/boot.php:274
+msgid "Fast optimization servers"
+msgstr "Серверы быстрой оптимизации"
+
+#: admin/boot.php:273
+msgid "Multisite support"
+msgstr "Поддержка мультисайтов"
+
+#: admin/boot.php:271
+msgid "You can optimize custom folders"
+msgstr "Вы можете оптимизировать пользовательские папки"
+
+#: admin/boot.php:249
+msgid "ROBIN IMAGE OPTIMIZER PRO"
+msgstr "ROBIN IMAGE OPTIMIZER PRO"
+
+#: libs/addons/views/modal-select-custom-folders.php:9
+msgid "Select a directory for optimization. All nested images and folders will be optimized recursively."
+msgstr "Выберите папку для оптимизации. Все вложенные изображения и папки будут оптимизированы рекурсивно."
+
+#: admin/pages/class-rio-settings.php:669
+#: libs/addons/views/part-bulk-optimization-table-folders.php:46
+msgid "Restore"
+msgstr "Восстановить"
+
+#: libs/addons/views/part-bulk-optimization-table-folders.php:46
+msgid "Recover images from backup?"
+msgstr "Восстановить изображения из бэкапа?"
+
+#: libs/addons/views/part-bulk-optimization-table-folders.php:45
+msgid "Sync"
+msgstr "Синхронизация"
+
+#: admin/includes/classes/class-rio-optimize-template.php:316
+#: admin/includes/classes/class-rio-optimize-template.php:369
+#: admin/pages/class-rio-statistic.php:88
+#: admin/pages/class-rio-statistic.php:353
+#: libs/addons/views/part-bulk-optimization-table-folders.php:44
+msgid "Optimize"
+msgstr "Оптимизировать"
+
+#: libs/addons/views/part-bulk-optimization-table-folders.php:24
+msgid "Folder"
+msgstr "Папка"
+
+#: libs/addons/views/part-bulk-optimization-table-folders.php:23
+#: views/part-bulk-optimization-servers.php:21
+msgid "Status"
+msgstr "Статус"
+
+#: libs/addons/views/part-bulk-optimization-table-folders.php:16
+msgid "Add custom folder"
+msgstr "Добавить пользовательскую папку"
+
+#: libs/addons/views/part-bulk-optimization-table-folders.php:14
+msgid "Additional media folders"
+msgstr "Дополнительные папки для медиа"
+
+#: libs/addons/includes/classes/class.folders-list-table.php:260
+msgid "Skipped"
+msgstr "Пропущено"
+
+#: libs/addons/includes/classes/class.folders-list-table.php:258
+msgid "Processing"
+msgstr "Обрабатывается"
+
+#: admin/pages/class-rio-statistic.php:326
+#: libs/addons/includes/classes/class.folders-list-table.php:257
+#: views/part-bulk-optimization-log.php:143
+#: views/part-bulk-optimization-statistic.php:43
+msgid "Error"
+msgstr "Ошибка"
+
+#: libs/addons/includes/classes/class.folders-list-table.php:256
+msgid "Success"
+msgstr "Успешно"
+
+#: libs/addons/includes/classes/class.folders-list-table.php:149
+msgid "Errors"
+msgstr "Ошибки"
+
+#: libs/addons/includes/classes/class.folders-list-table.php:146
+#: libs/addons/includes/classes/class.folders-list-table.php:259
+#: views/part-bulk-optimization-statistic.php:35
+msgid "Unoptimized"
+msgstr "Не оптимизировано"
+
+#: libs/addons/views/part-bulk-optimization-table-folders.php:15
+msgid "Use the add folder... button to select site folders. Robin image optimizer will optimize images from the specified folders and their subfolders. The optimization status for each image in these folders can be seen in the Other Media list, under the Media menu."
+msgstr "Используйте кнопку \"Добавить папку\" для выбора папок сайта. Robin image optimizer оптимизирует изображения из указанных папок и их подпапок. Состояние оптимизации для каждого изображения в этих папках можно увидеть в списке \"Другие медиа\" в меню Медиафайлы."
+
+#: libs/addons/includes/classes/class.folders-list-table.php:143
+#: views/part-bulk-optimization-statistic.php:39
+msgid "Optimized"
+msgstr "Оптимизировано"
+
+#: libs/addons/includes/classes/class.folders-list-table.php:142
+msgid "All Media Files"
+msgstr "Все медиафайлы"
+
+#: libs/addons/includes/classes/class.folders-list-table.php:140
+msgid "Filter by status"
+msgstr "Фильтр по статусу"
+
+#: libs/addons/includes/classes/class.folders-list-table.php:131
+msgid "All Folders"
+msgstr "Все папки"
+
+#: libs/addons/includes/classes/class.folders-list-table.php:129
+msgid "Filter by folder"
+msgstr "Фильтр по папке"
+
+#: libs/addons/includes/classes/class.folders-list-table.php:26
+msgctxt "Column label"
+msgid "Optimization"
+msgstr "Оптимизация"
+
+#: libs/addons/includes/classes/class.folders-list-table.php:25
+msgctxt "Column label"
+msgid "Status"
+msgstr "Статус"
+
+#: libs/addons/includes/classes/class.folders-list-table.php:24
+msgctxt "Column label"
+msgid "Folder"
+msgstr "Папка"
+
+#: libs/addons/includes/classes/class.folders-list-table.php:23
+msgctxt "Column label"
+msgid "File path"
+msgstr "Путь файла"
+
+#: libs/addons/includes/classes/class.folders-list-table.php:22
+msgctxt "Column label"
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: includes/classes/class-rio-image-statistic.php:669
+#: includes/classes/class-rio-image-statistic.php:786
+#: libs/addons/includes/classes/class.image-statistic-folders.php:341
+#: libs/addons/includes/classes/class.image-statistic-nextgen.php:203
+msgid "Unknown error"
+msgstr "Неизвестная ошибка"
+
+#: libs/addons/includes/classes/class.image-nextgen.php:207
+msgid "File not found"
+msgstr "Файл не найден"
+
+#: includes/classes/class-rio-media-library.php:273
+#: includes/classes/class-rio-media-library.php:277
+#: libs/addons/includes/classes/class.custom-folders.php:346
+#: libs/addons/includes/classes/class.custom-folders.php:350
+#: libs/addons/includes/classes/class.gallery-nextgen.php:343
+#: libs/addons/includes/classes/class.gallery-nextgen.php:346
+msgid "No access for writing backups."
+msgstr "Нет доступа для записи резервных копий."
+
+#: admin/includes/classes/class-rio-nextgen-landing.php:37
+#: admin/includes/classes/class-rio-nextgen-landing.php:38
+#: admin/pages/class-rio-log.php:129 admin/pages/class-rio-statistic.php:138
+#: libs/addons/includes/classes/class.gallery-nextgen.php:159
+msgid "Image optimizer"
+msgstr "Оптим. изображений"
+
+#: libs/addons/admin/pages/class-rio-statistic-nextgen-page.php:71
+#: libs/addons/admin/pages/class-rio-statistic-nextgen-page.php:78
+msgid "NextGen Gallery"
+msgstr "Галерея NextGen"
+
+#: libs/addons/admin/pages/class-rio-statistic-folders-page.php:200
+msgid "All images from custom folders are optimized."
+msgstr "Все изображения из пользовательских папок оптимизированы."
+
+#. translators: %d is the number of images found
+#: libs/addons/admin/pages/class-rio-statistic-folders-page.php:196
+msgid "Selected directory is being indexed. Found %d images."
+msgstr "Выбранная папка проиндексирована. Найдено %d изображений."
+
+#: libs/addons/admin/pages/class-rio-statistic-folders-page.php:194
+#: libs/addons/views/part-bulk-optimization-table-folders.php:47
+msgid "Exclude directory from optimization?"
+msgstr "Исключить каталог из оптимизации?"
+
+#: libs/addons/admin/pages/class-rio-statistic-folders-page.php:193
+msgid "Remove"
+msgstr "Удалить"
+
+#: admin/pages/class-rio-statistic.php:327
+#: libs/addons/admin/pages/class-rio-statistic-folders-page.php:192
+#: libs/addons/views/part-bulk-optimization-table-folders.php:25
+msgid "Cancel"
+msgstr "Отменить"
+
+#: libs/addons/admin/pages/class-rio-statistic-folders-page.php:189
+msgid "Select custom folder"
+msgstr "Добавить пользовательскую папку"
+
+#: admin/pages/class-rio-statistic.php:233
+#: libs/addons/admin/pages/class-rio-statistic-folders-page.php:134
+msgid "Monitor image optimization statistics and run on demand or scheduled optimization."
+msgstr "Отслеживайте статистику оптимизации изображений и запускайте оптимизацию по требованию или по расписанию."
+
+#: admin/pages/class-rio-statistic.php:232
+#: libs/addons/admin/pages/class-rio-statistic-folders-page.php:133
+msgid "Image optimization dashboard"
+msgstr "Панель управления оптимизацией изображений"
+
+#: libs/addons/admin/pages/class-rio-statistic-folders-page.php:77
+#: libs/addons/admin/pages/class-rio-statistic-folders-page.php:84
+msgid "Custom Folders"
+msgstr "Пользовательские папки"
+
+#: libs/addons/admin/pages/class-rio-statistic-folders-page.php:197
+#: libs/addons/views/modal-select-custom-folders.php:14
+msgid "Indexing complete. Directory successfully added and ready for optimization."
+msgstr "Индексирование завершено. Каталог успешно добавлен и готов к оптимизации."
+
+#: libs/addons/views/modal-select-custom-folders.php:13
+msgid "images."
+msgstr "изображений."
+
+#: libs/addons/views/modal-select-custom-folders.php:12
+msgid "The selected directory is being indexed. Found"
+msgstr "Выбранный каталог индексируется. Найден"
+
+#: libs/addons/admin/pages/class-rio-statistic-folders-page.php:191
+msgid "Select"
+msgstr "Выбрать"
+
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:319
+msgid "Donation for plugin development"
+msgstr "Пожертвования на развитие плагина"
+
+#: libs/factory/templates/pages/templates/impressive/class-page-template-impressive.php:977
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:272
+msgid "Hover to the icon to get help for the feature you selected."
+msgstr "Наведите указатель мыши на значок, чтобы получить справку по выбранной функции."
+
+#: libs/factory/templates/pages/templates/impressive/class-page-template-impressive.php:973
+#: libs/factory/templates/pages/templates/impressive/class-pages.php:268
+msgid "Absolutely safe setting, We recommend to use."
+msgstr "Абсолютно безопасная настройка, мы рекомендуем ее использовать."
+
+#: libs/factory/templates/pages/class-pages-components.php:95
+msgid "Activate license"
+msgstr "Активировать лицензию"
+
+#: libs/factory/templates/pages/class-page-more-features.php:162
+msgid "Get the ultimate plugin 100% FREE"
+msgstr "Получить полную версию бесплатно на 100%"
+
+#: libs/factory/templates/pages/class-page-more-features.php:148
+msgid "In quick mode, you can easily configure the plugin according to your needs."
+msgstr "В быстром режиме вы можете легко настроить плагин в соответствии с вашими потребностями."
+
+#: libs/factory/templates/pages/class-page-more-features.php:147
+msgid "Easy setup"
+msgstr "Простая настройка"
+
+#: libs/factory/templates/pages/class-page-more-features.php:140
+msgid "Site privacy"
+msgstr "Конфиденциальность сайта"
+
+#: libs/factory/templates/pages/class-page-more-features.php:134
+msgid "Increases performance by disabling unused functions and reducing the number of requests."
+msgstr "Повышает производительность, отключая неиспользуемые функции и уменьшая количество запросов."
+
+#: libs/factory/templates/pages/class-page-more-features.php:133
+msgid "Speed Optimization"
+msgstr "Оптимизация производительности"
+
+#: libs/factory/templates/pages/class-page-more-features.php:127
+msgid "Allows you to remove unused widgets."
+msgstr "Позволяет удалить неиспользуемые виджеты."
+
+#: libs/factory/templates/pages/class-page-more-features.php:126
+msgid "Manage widgets"
+msgstr "Управление виджетами"
+
+#: libs/factory/templates/pages/class-page-more-features.php:119
+msgid "Manage updates"
+msgstr "Менеджер обновлений"
+
+#: libs/factory/templates/pages/class-page-more-features.php:113
+msgid "Disables comments on the entire site or on specific pages."
+msgstr "Отключает комментарии на всем сайте или у определенных страниц."
+
+#: libs/factory/templates/pages/class-page-more-features.php:112
+msgid "Disable comments"
+msgstr "Отключает комментарии"
+
+#: libs/factory/templates/pages/class-page-more-features.php:106
+msgid "Enables and disables features that improve the protection of your site."
+msgstr "Включает и отключает функции, которые улучшают защиту вашего сайта."
+
+#: libs/factory/templates/pages/class-page-more-features.php:105
+msgid "Site protection"
+msgstr "Защита сайта"
+
+#: libs/factory/templates/pages/class-page-more-features.php:99
+msgid "Removes duplicate pages, closes external links, changes the headers of the server."
+msgstr "Удаляет дубликаты страниц, закрывает внешние ссылки, изменяет заголовки сервера."
+
+#: libs/factory/templates/pages/class-page-more-features.php:98
+msgid "Improve SEO"
+msgstr "Улучшает SEO"
+
+#: libs/factory/templates/pages/class-page-more-features.php:92
+msgid "Clears the source code of the page from unused code."
+msgstr "Очищает исходный код страницы от неиспользуемого кода."
+
+#: libs/factory/templates/pages/class-page-more-features.php:91
+msgid "Code cleaning"
+msgstr "Очищает код"
+
+#: libs/factory/templates/pages/class-page-more-features.php:64
+#: libs/factory/templates/pages/class-page-more-features.php:77
+msgid "More features"
+msgstr "Больше функций"
+
+#: admin/pages/class-rio-license.php:533
+msgid "Have a key to activate the plugin? Paste it here:"
+msgstr "Есть ключ для активации плагина? Вставьте сюда:"
+
+#: admin/pages/class-rio-license.php:531
+msgid "Have a key to activate the premium version? Paste it here:"
+msgstr "У вас есть ключ для активации премиум версии? Вставьте сюда:"
+
+#: libs/factory/templates/includes/ajax-handlers.php:61
+msgid "Subscription success cancelled"
+msgstr "Подписка отменена"
+
+#: libs/factory/templates/includes/ajax-handlers.php:57
+msgid "The license has been updated"
+msgstr "Лицензия обновлена"
+
+#: libs/factory/templates/includes/ajax-handlers.php:53
+msgid "The license is deactivated"
+msgstr "Лицензия деактивирована"
+
+#: libs/factory/templates/includes/ajax-handlers.php:48
+msgid "Your license has been successfully activated"
+msgstr "Ваша лицензия была успешно активирована"
+
+#: libs/factory/templates/pages/templates/impressive-lite/class-page-template-impressive-lite.php:238
+#: libs/factory/templates/pages/templates/impressive/class-page-template-impressive.php:767
+msgid "You do not have permission to edit page."
+msgstr "У вас нет разрешения на редактирование страницы."
+
+#: libs/factory/templates/pages/templates/impressive-lite/class-page-template-impressive-lite.php:290
+#: libs/factory/templates/pages/templates/impressive/class-page-template-impressive.php:626
+msgid "Save"
+msgstr "Сохранить"
+
+#: admin/pages/class-rio-license.php:352
+#: libs/factory/templates/pages/templates/impressive/class-page-template-impressive.php:617
+msgid "Page"
+msgstr "Страница"
+
+#: admin/pages/class-rio-settings.php:75
+#: libs/factory/templates/pages/templates/impressive/class-page-template-impressive.php:128
+msgid "Settings"
+msgstr "Настройки"
+
+#: libs/factory/pages/pages.php:66
+msgid "You are trying to call this earlier than the plugin menu will be registered."
+msgstr "Вы пытаетесь вызвать это раньше, чем будет зарегистрировано меню плагина."
+
+#: libs/factory/forms/controls/paddings-editor.php:66
+msgid "Select a side and move the slider to set up:"
+msgstr "Выберите сторону и переместите ползунок для настройки:"
+
+#: libs/factory/forms/controls/dropdown.php:123
+#: libs/factory/forms/controls/list.php:90
+#: libs/factory/forms/controls/list.php:132
+msgid "The list is empty."
+msgstr "Список пуст."
+
+#: libs/factory/forms/controls/google-font.php:112
+msgid "Unable to retrieve the list of Google Fonts."
+msgstr "Невозможно получить список шрифтов Google."
+
+#: libs/factory/forms/controls/google-font.php:63
+msgid "Google Fonts:"
+msgstr "Google Fonts:"
+
+#: libs/factory/forms/controls/google-font.php:52
+msgid "Standard:"
+msgstr "Стандартный:"
+
+#: libs/factory/forms/controls/gradient.php:66
+msgid "horizontal"
+msgstr "горизонтально"
+
+#: libs/factory/forms/controls/gradient.php:65
+msgid "vertical"
+msgstr "вертикально"
+
+#: libs/factory/forms/controls/pattern.php:119
+msgid "Select color:"
+msgstr "Выберите цвет:"
+
+#: libs/factory/forms/controls/pattern.php:112
+msgid "re-color"
+msgstr "перекрасить"
+
+#: libs/factory/forms/controls/pattern.php:110
+msgid "Change color"
+msgstr "Выбрать цвет"
+
+#: libs/factory/forms/controls/font.php:184
+msgid "Monospaced:"
+msgstr "Группа Monospaced:"
+
+#: libs/factory/forms/controls/font.php:128
+msgid "Serif:"
+msgstr "Группа Serif:"
+
+#: libs/factory/forms/controls/font.php:77
+msgid "Sans Serif:"
+msgstr "Группа Sans Serif:"
+
+#: libs/factory/forms/controls/checkbox.php:137
+msgid "Off"
+msgstr "Откл"
+
+#: libs/factory/forms/controls/checkbox.php:130
+msgid "On"
+msgstr "Вкл"
+
+#: libs/factory/forms/controls/holders/more-link.php:52
+msgid "hide extra options"
+msgstr "скрыть дополнительные настроки"
+
+#: libs/factory/forms/controls/multiple-textbox.php:84
+msgid "Add new"
+msgstr "Добавить новый"
+
+#: libs/factory/core/includes/updates/class-factory-premium-upgrader.php:780
+msgid "License activation required. A license is required to get premium plugin updates, as well as to get additional services."
+msgstr "Требуется активация лицензии. Лицензия необходима для получения обновлений плагинов премиум-класса, а также для получения дополнительных услуг."
+
+#: libs/factory/core/includes/class-factory-migrations.php:172
+msgid "migrations DEBUG bar"
+msgstr "DEBUG панель миграции "
+
+#: libs/factory/core/includes/class-factory-migrations.php:165
+msgid "Migrate now"
+msgstr "Мигрировать сейчас"
+
+#: libs/factory/core/includes/class-factory-migrations.php:164
+msgid "Need migration:"
+msgstr "Нужна миграция:"
+
+#: libs/factory/core/includes/class-factory-migrations.php:163
+msgid "Current plugin version:"
+msgstr "Текущая версия плагина:"
+
+#: libs/factory/core/includes/class-factory-migrations.php:162
+msgid "Old plugin version (debug):"
+msgstr "Старая версия плагина (отладка):"
+
+#: libs/factory/core/includes/class-factory-migrations.php:160
+msgid "Plugin activated:"
+msgstr "Плагин активирован:"
+
+#: libs/factory/core/includes/class-factory-migrations.php:134
+msgid "migration error"
+msgstr "ошибка миграции"
+
+#: libs/factory/core/includes/class-factory-migrations.php:127
+msgid "I fixed, confirm migration"
+msgstr "Я исправил, подтвердите миграцию"
+
+#. translators: %s is the plugin title
+#: libs/factory/core/includes/class-factory-requirements.php:292
+msgid "Plugin %s is already activated, you are trying to activate it again."
+msgstr "Плагин %s уже активирован, вы пытаетесь активировать его снова."
+
+#. translators: %s is the required WordPress version
+#: libs/factory/core/includes/class-check-compatibility.php:90
+#: libs/factory/core/includes/class-factory-requirements.php:284
+msgid "You need to update WordPress to %s or higher!"
+msgstr "Вам необходимо обновить WordPress до версии %s или выше!"
+
+#. translators: %s is the required php version
+#: libs/factory/core/includes/class-check-compatibility.php:84
+#: libs/factory/core/includes/class-factory-requirements.php:276
+msgid "You need to update the PHP version to %s or higher!"
+msgstr "Вам нужно обновить версию PHP до %s или выше!"
+
+#: libs/factory/core/includes/class-check-compatibility.php:77
+#: libs/factory/core/includes/class-factory-requirements.php:245
+msgid "Possible reasons:"
+msgstr "Возможные причины:"
+
+#. translators: %s is the plugin title
+#: libs/factory/core/includes/class-check-compatibility.php:76
+#: libs/factory/core/includes/class-factory-requirements.php:244
+msgid "The %s plugin has stopped."
+msgstr "Плагин %s остановлен."
+
+#: libs/factory/core/includes/class-check-compatibility.php:73
+#: libs/factory/core/includes/class-factory-requirements.php:241
+msgid "warning"
+msgstr "предупреждение"
+
+#: libs/factory/core/includes/class-factory-plugin-abstract.php:583
+msgid "You cannot use this feature on the frontend."
+msgstr "Вы не можете использовать эту функцию во внешней части сайта."
+
+#. Description of the plugin
+#: robin-image-optimizer.php
+msgid "Optimize images without losing quality, speed up your website load, improve SEO and save money on server and CDN bandwidth."
+msgstr "Оптимизируйте изображения без потери качества, ускорьте загрузку вашего сайта, улучшите SEO и сэкономьте деньги на пропускной способности сервера и CDN."
+
+#. Author of the plugin
+#: robin-image-optimizer.php
+msgid "Themeisle <contact@themeisle.com>"
+msgstr "Themeisle <contact@themeisle.com>"
+
+#. Author URI of the plugin
+#: robin-image-optimizer.php
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#: views/part-bulk-optimization-total.php:16
+msgid "Thumbnails:"
+msgstr "Миниатюры:"
+
+#: libs/factory/logger/pages/class-logger-admin-page.php:153
+#: libs/factory/logger/pages/class-logger-impressive-lite.php:144
+#: libs/factory/logger/pages/class-logger-impressive-page.php:183
+msgid "You do not have sufficient permissions to perform this action!"
+msgstr "У вас нет прав для выполнения этого действия!"
+
+#: views/part-bulk-optimization-servers.php:25
+msgid "Tokens"
+msgstr "Токены"

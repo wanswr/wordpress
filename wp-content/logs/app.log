@@ -1,0 +1,24 @@
+
+16-04-2024 18:12:53 [msk.potolokbel.ru][info] START auto optimize cron job. Attachment: 2131
+16-04-2024 18:12:53 [msk.potolokbel.ru][info] Try to create backup directory. Backup dir: (/home/srv165174/msk.potolokbel.ru/wp-content/uploads/wio_backup/2024/04)
+16-04-2024 18:12:53 [msk.potolokbel.ru][info] Preparing to upload a file (/home/srv165174/msk.potolokbel.ru/wp-content/uploads/2024/04/pic-11.jpg) to a remote server (server_1).
+16-04-2024 18:12:54 [msk.potolokbel.ru][info] File successfully uploaded to remote server (server_1).
+16-04-2024 18:12:54 [msk.potolokbel.ru][info] Preparing to upload a file (/home/srv165174/msk.potolokbel.ru/wp-content/uploads/2024/04/pic-11-150x150.jpg) to a remote server (server_1).
+16-04-2024 18:12:54 [msk.potolokbel.ru][info] File successfully uploaded to remote server (server_1).
+16-04-2024 18:12:54 [msk.potolokbel.ru][info] Preparing to upload a file (/home/srv165174/msk.potolokbel.ru/wp-content/uploads/2024/04/pic-11-300x108.jpg) to a remote server (server_1).
+16-04-2024 18:12:54 [msk.potolokbel.ru][info] File successfully uploaded to remote server (server_1).
+16-04-2024 18:12:54 [msk.potolokbel.ru][info] Preparing to upload a file (/home/srv165174/msk.potolokbel.ru/wp-content/uploads/2024/04/pic-11-768x277.jpg) to a remote server (server_1).
+16-04-2024 18:12:55 [msk.potolokbel.ru][info] File successfully uploaded to remote server (server_1).
+16-04-2024 18:12:55 [msk.potolokbel.ru][info] Preparing to upload a file (/home/srv165174/msk.potolokbel.ru/wp-content/uploads/2024/04/pic-11-1024x369.jpg) to a remote server (server_1).
+16-04-2024 18:12:55 [msk.potolokbel.ru][info] File successfully uploaded to remote server (server_1).
+16-04-2024 18:12:55 [msk.potolokbel.ru][info] Preparing to upload a file (/home/srv165174/msk.potolokbel.ru/wp-content/uploads/2024/04/pic-11-1536x554.jpg) to a remote server (server_1).
+16-04-2024 18:12:55 [msk.potolokbel.ru][info] File successfully uploaded to remote server (server_1).
+16-04-2024 18:12:56 [msk.potolokbel.ru][debug] New queue created #224, attributes values: {"server_id":null,"object_id":2131,"object_name":"","item_type":"attachment","item_hash":null,"item_hash_alternative":null,"result_status":"success","processing_level":"aggresive","is_backed_up":true,"original_size":227991,"final_size":213215,"original_mime_type":"image\/jpeg","final_mime_type":"image\/jpeg","extra_data":"{\"thumbnails_count\":5,\"original_main_size\":65405,\"class\":\"RIO_Attachment_Extra_Data\"}","created_at":1713280376}
+16-04-2024 18:12:56 [msk.potolokbel.ru][info] END auto optimize cron job. Attachment: 2131
+-------------------------------
+04-06-2026 18:26:04 [msk.potolokbel.ru][info] Plugin migration to 1.8.2 was successful!
+04-06-2026 18:26:04 [msk.potolokbel.ru][info] Plugin migration to 1.8.3 was successful!
+-------------------------------
+04-06-2026 18:26:03 [msk.potolokbel.ru][info] Plugin migration to 1.8.2 was successful!
+04-06-2026 18:26:03 [msk.potolokbel.ru][info] Plugin migration to 1.8.3 was successful!
+-------------------------------

@@ -1,0 +1,22 @@
+[2024-04-16 15:12:33 : INFO] - Re_Smush_It_Task with attachment ID : 2131, autocreated on : April 16, 2024 03:12:33 
+[2024-04-16 16:08:08 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2024-04-16 16:08:08 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2024-04-16 16:08:08 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2024-04-16 16:08:08 : INFO] - Processing task with ID : 222, and type 'smush' 
+[2024-04-16 16:08:08 : INFO] - Re_Smush_It_Task with attachment ID : 2078, autocreated on : August 30, 2023 06:27:34 
+[2024-04-16 16:08:08 : INFO] - File: люминотти.png, Compression quality: 75 
+[2024-04-16 16:08:09 : INFO] - Backing up the original image - 2023/08/люминотти-updraft-pre-smush-original.png 
+[2024-04-16 16:08:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-04-16 16:08:09 : INFO] - Successfully optimized the image - /home/srv165174/msk.potolokbel.ru/wp-content/uploads/2023/08/люминотти.png.Файл был сжат с 2.46 KB до 2.11 KB, сохранив 14.23 процентов, с помощью WP-Optimize 
+[2024-04-16 16:08:09 : INFO] - Completed processing task with ID : 222, and type 'smush' 
+[2024-04-16 16:08:09 : INFO] - Processing task with ID : 223, and type 'smush' 
+[2024-04-16 16:08:09 : INFO] - Re_Smush_It_Task with attachment ID : 2131, autocreated on : April 16, 2024 03:12:33 
+[2024-04-16 16:08:09 : INFO] - File: pic-11.jpg, Compression quality: 75 
+[2024-04-16 16:08:10 : INFO] - Backing up the original image - 2024/04/pic-11-updraft-pre-smush-original.jpg 
+[2024-04-16 16:08:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-04-16 16:08:12 : INFO] - Successfully optimized the image - /home/srv165174/msk.potolokbel.ru/wp-content/uploads/2024/04/pic-11.jpg.Файл был сжат с 76.45 KB до 76.45 KB, сохранив 0 процентов, с помощью WP-Optimize 
+[2024-04-16 16:08:12 : INFO] - Completed processing task with ID : 223, and type 'smush' 
+[2024-04-16 16:08:12 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2024-04-16 16:08:12 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2024-04-16 16:08:12 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2024-04-16 16:08:12 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
