@@ -1,13 +1,12 @@
 User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
 Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
-
 Disallow: /?s=
 Disallow: /page/*/?s=
 Disallow: /search/
 Disallow: /wp-json/
 Disallow: /?rest_route=
+Disallow: /*srv165174_atqnKi7Fii.sql
 
-
-Sitemap: https://msk.potolokbel.ru/page-sitemap.xml
-# ---------------------------
-# END YOAST BLOCK
+Sitemap: https://msk.potolokbel.ru/sitemap_index.xml
