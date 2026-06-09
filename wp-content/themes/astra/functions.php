@@ -213,60 +213,70 @@ require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-filters.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-hooks.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-functions.php';
 
-/**
-});
-
-/**
- * Custom CSS for Mega Menu and Dropdown Fixes
- */
 add_action('wp_head', function() {
-    echo '<style>
-        /* Fix background transparency for submenus */
+    ?>
+    <style id="custom-menu-fixes">
+        /* 1. NON-TRANSPARENT MENU */
+        .main-header-bar,
+        .ast-header-break-point .main-header-bar {
+            background-color: #ffb400 !important; /* Keep your header color */
+        }
+
+        /* Submenus MUST be solid white and overlap everything */
         .main-header-bar .main-header-menu .sub-menu,
-        .ast-header-break-point .main-header-bar .main-header-menu .sub-menu {
+        .ast-header-break-point .main-header-bar .main-header-menu .sub-menu,
+        .main-header-menu .sub-menu,
+        #ast-hf-menu-3 .sub-menu {
             background-color: #ffffff !important;
             opacity: 1 !important;
             visibility: visible !important;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.15) !important;
+            display: block; /* For testing, will be toggled by JS/Hover */
+            box-shadow: 0 15px 45px rgba(0,0,0,0.2) !important;
+            z-index: 999999 !important;
         }
 
+        /* Ensure links are dark and visible */
         .main-header-menu .sub-menu .menu-item a {
-            color: #333333 !important;
-            padding: 12px 20px !important;
-            display: block !important;
-            background: #ffffff !important;
+            color: #222222 !important;
+            background-color: #ffffff !important;
+            opacity: 1 !important;
+            padding: 12px 25px !important;
+            border-bottom: 1px solid #eeeeee;
         }
 
-        .main-header-menu .sub-menu .menu-item a:hover {
-            background-color: #f9f9f9 !important;
-            color: #ffb400 !important;
-        }
-
-        /* Fix for long "Cities" menu - max height and scroll */
+        /* 2. PREVENT GOING BELOW SCREEN */
         @media (min-width: 992px) {
             .main-header-menu .menu-item-has-children > .sub-menu {
-                max-height: 70vh !important;
+                max-height: 80vh !important;
                 overflow-y: auto !important;
-                scrollbar-width: thin;
+                position: absolute !important;
+                top: 100% !important;
             }
 
-            /* Two-column layout for the Cities menu */
+            /* 3. TWO COLUMNS FOR CITIES */
             .mega-menu-cols > .sub-menu {
-                min-width: 600px !important;
+                min-width: 650px !important;
                 display: flex !important;
                 flex-wrap: wrap !important;
                 flex-direction: row !important;
+                padding: 15px !important;
             }
             .mega-menu-cols > .sub-menu > .menu-item {
                 flex: 0 0 50% !important;
                 width: 50% !important;
+                border: none !important;
+            }
+            .mega-menu-cols > .sub-menu > .menu-item a {
+                border: none !important;
             }
         }
 
-        /* Ensure dropdowns are not transparent on hover */
-        .main-header-menu li:hover > .sub-menu {
+        /* Fix Astra hover behavior to ensure opacity 1 */
+        .main-header-menu li:hover > .sub-menu,
+        .main-header-menu li.focus > .sub-menu {
             opacity: 1 !important;
-            background: #ffffff !important;
+            visibility: visible !important;
         }
-    </style>';
-});
+    </style>
+    <?php
+}, 999);
