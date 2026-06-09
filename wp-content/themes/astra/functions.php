@@ -212,3 +212,48 @@ require_once ASTRA_THEME_DIR . 'inc/abilities/bootstrap.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-filters.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-hooks.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-functions.php';
+
+/**
+ * Custom CSS for Mega Menu and Dropdown Fixes
+ */
+add_action('wp_head', function() {
+    echo '<style>
+        /* Fix background transparency for submenus */
+        .main-header-menu .sub-menu {
+            background-color: #ffffff !important;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1) !important;
+        }
+        .main-header-menu .sub-menu .menu-item a {
+            color: #333333 !important;
+            padding: 10px 20px !important;
+        }
+        .main-header-menu .sub-menu .menu-item a:hover {
+            background-color: #f9f9f9 !important;
+            color: #ffb400 !important;
+        }
+
+        /* Fix for long "Cities" menu - max height and scroll */
+        @media (min-width: 992px) {
+            .main-header-menu .menu-item-has-children:hover > .sub-menu {
+                max-height: 80vh;
+                overflow-y: auto;
+            }
+
+            /* Two-column layout for the Cities menu if it has the mega-menu-cols class */
+            .mega-menu-cols > .sub-menu {
+                min-width: 500px !important;
+                display: flex !important;
+                flex-wrap: wrap;
+                flex-direction: row !important;
+            }
+            .mega-menu-cols > .sub-menu > .menu-item {
+                flex: 0 0 50%;
+            }
+        }
+
+        /* Mobile menu fixes */
+        .ast-header-break-point .main-header-menu .sub-menu {
+            background-color: #ffffff !important;
+        }
+    </style>';
+});
