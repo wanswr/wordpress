@@ -145,3 +145,9 @@
 [2026-06-09 15:27:26 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Можно ли ставить натяжной потолок зимой" has been purged, triggered by action: save_post
 [2026-06-09 15:27:29 : INFO] - Cache for URL: https://msk.potolokbel.ru/natyazhnoj-potolok-v-vannoj/ has been purged, triggered by action: save_post
 [2026-06-09 15:27:29 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжной потолок в ванной" has been purged, triggered by action: save_post
+[2026-06-09 15:57:50 : INFO] - Cache for URL: https://msk.potolokbel.ru/tenevye-natyazhnye-potolki/ has been purged, triggered by action: save_post
+[2026-06-09 15:57:50 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Теневые натяжные потолки" has been purged, triggered by action: save_post
+[2026-06-09 15:57:53 : INFO] - Cache for URL: https://msk.potolokbel.ru/svetovye-natyazhnye-potolki/ has been purged, triggered by action: save_post
+[2026-06-09 15:57:53 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Световые натяжные потолки" has been purged, triggered by action: save_post
+[2026-06-09 15:57:56 : INFO] - Cache for URL: https://msk.potolokbel.ru/natyazhnye-potolki-s-fotopechatyu/ has been purged, triggered by action: save_post
+[2026-06-09 15:57:56 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки с фотопечатью" has been purged, triggered by action: save_post
