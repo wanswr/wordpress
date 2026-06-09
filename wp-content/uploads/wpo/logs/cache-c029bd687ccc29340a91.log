@@ -3,3 +3,145 @@
 [2026-06-04 15:26:59 : INFO] - Full Cache Purge triggered by action: wpo_active_plugin_or_theme_updated 
 [2026-06-04 15:27:08 : INFO] - Full Cache Purge triggered by action: wpo_active_plugin_or_theme_updated 
 [2026-06-04 15:27:17 : INFO] - Full Cache Purge triggered by action: wpo_active_plugin_or_theme_updated 
+[2026-06-09 15:24:07 : INFO] - Cache for URL: https://msk.potolokbel.ru/natyazhnye-potolki-moskva/ has been purged, triggered by action: save_post
+[2026-06-09 15:24:08 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Москве" has been purged, triggered by action: save_post
+[2026-06-09 15:24:10 : INFO] - Cache for URL: https://msk.potolokbel.ru/zakazat-natyazhnye-potolki/ has been purged, triggered by action: save_post
+[2026-06-09 15:24:10 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Заказать натяжные потолки" has been purged, triggered by action: save_post
+[2026-06-09 15:24:13 : INFO] - Cache for URL: https://msk.potolokbel.ru/natyazhnye-potolki-pod-klyuch/ has been purged, triggered by action: save_post
+[2026-06-09 15:24:13 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки под ключ" has been purged, triggered by action: save_post
+[2026-06-09 15:24:16 : INFO] - Cache for URL: https://msk.potolokbel.ru/montazh-natyazhnyh-potolkov/ has been purged, triggered by action: save_post
+[2026-06-09 15:24:16 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Монтаж натяжных потолков" has been purged, triggered by action: save_post
+[2026-06-09 15:24:19 : INFO] - Cache for URL: https://msk.potolokbel.ru/ustanovka-natyazhnyh-potolkov/ has been purged, triggered by action: save_post
+[2026-06-09 15:24:19 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Установка натяжных потолков" has been purged, triggered by action: save_post
+[2026-06-09 15:24:22 : INFO] - Cache for URL: https://msk.potolokbel.ru/natyazhnye-potolki-cena/ has been purged, triggered by action: save_post
+[2026-06-09 15:24:22 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки цена" has been purged, triggered by action: save_post
+[2026-06-09 15:24:25 : INFO] - Cache for URL: https://msk.potolokbel.ru/cena-natyazhnogo-potolka-za-m2/ has been purged, triggered by action: save_post
+[2026-06-09 15:24:25 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Цена натяжного потолка за м2" has been purged, triggered by action: save_post
+[2026-06-09 15:24:28 : INFO] - Cache for URL: https://msk.potolokbel.ru/skolko-stoit-natyazhnoj-potolok/ has been purged, triggered by action: save_post
+[2026-06-09 15:24:28 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Сколько стоит натяжной потолок" has been purged, triggered by action: save_post
+[2026-06-09 15:24:30 : INFO] - Cache for URL: https://msk.potolokbel.ru/raschet-stoimosti-natyazhnogo-potolka/ has been purged, triggered by action: save_post
+[2026-06-09 15:24:30 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Расчет стоимости натяжного потолка" has been purged, triggered by action: save_post
+[2026-06-09 15:24:33 : INFO] - Cache for URL: https://msk.potolokbel.ru/natyazhnye-potolki-nedorogo/ has been purged, triggered by action: save_post
+[2026-06-09 15:24:33 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки недорого" has been purged, triggered by action: save_post
+[2026-06-09 15:24:36 : INFO] - Cache for URL: https://msk.potolokbel.ru/matovye-natyazhnye-potolki/ has been purged, triggered by action: save_post
+[2026-06-09 15:24:36 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Матовые натяжные потолки" has been purged, triggered by action: save_post
+[2026-06-09 15:24:39 : INFO] - Cache for URL: https://msk.potolokbel.ru/glyancevye-natyazhnye-potolki/ has been purged, triggered by action: save_post
+[2026-06-09 15:24:39 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Глянцевые натяжные потолки" has been purged, triggered by action: save_post
+[2026-06-09 15:24:42 : INFO] - Cache for URL: https://msk.potolokbel.ru/satinovye-natyazhnye-potolki/ has been purged, triggered by action: save_post
+[2026-06-09 15:24:42 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Сатиновые натяжные потолки" has been purged, triggered by action: save_post
+[2026-06-09 15:24:45 : INFO] - Cache for URL: https://msk.potolokbel.ru/tkanevye-natyazhnye-potolki/ has been purged, triggered by action: save_post
+[2026-06-09 15:24:45 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Тканевые натяжные потолки" has been purged, triggered by action: save_post
+[2026-06-09 15:24:48 : INFO] - Cache for URL: https://msk.potolokbel.ru/paryashie-potolki/ has been purged, triggered by action: save_post
+[2026-06-09 15:24:48 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Парящие потолки" has been purged, triggered by action: save_post
+[2026-06-09 15:24:51 : INFO] - Cache for URL: https://msk.potolokbel.ru/svetovye-linii/ has been purged, triggered by action: save_post
+[2026-06-09 15:24:51 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Световые линии" has been purged, triggered by action: save_post
+[2026-06-09 15:24:53 : INFO] - Cache for URL: https://msk.potolokbel.ru/zvezdnoe-nebo/ has been purged, triggered by action: save_post
+[2026-06-09 15:24:53 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Звездное небо" has been purged, triggered by action: save_post
+[2026-06-09 15:24:56 : INFO] - Cache for URL: https://msk.potolokbel.ru/dvuhurovnevye-potolki/ has been purged, triggered by action: save_post
+[2026-06-09 15:24:56 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Двухуровневые потолки" has been purged, triggered by action: save_post
+[2026-06-09 15:24:59 : INFO] - Cache for URL: https://msk.potolokbel.ru/reznye-potolki/ has been purged, triggered by action: save_post
+[2026-06-09 15:24:59 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Резные потолки" has been purged, triggered by action: save_post
+[2026-06-09 15:25:02 : INFO] - Cache for URL: https://msk.potolokbel.ru/potolki-s-podsvetkoj/ has been purged, triggered by action: save_post
+[2026-06-09 15:25:02 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Потолки с подсветкой" has been purged, triggered by action: save_post
+[2026-06-09 15:25:05 : INFO] - Cache for URL: https://msk.potolokbel.ru/natyazhnye-potolki-kuhnya/ has been purged, triggered by action: save_post
+[2026-06-09 15:25:05 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки на кухне" has been purged, triggered by action: save_post
+[2026-06-09 15:25:08 : INFO] - Cache for URL: https://msk.potolokbel.ru/natyazhnye-potolki-v-vannuyu/ has been purged, triggered by action: save_post
+[2026-06-09 15:25:08 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в ванную" has been purged, triggered by action: save_post
+[2026-06-09 15:25:10 : INFO] - Cache for URL: https://msk.potolokbel.ru/natyazhnye-potolki-v-gostinuyu/ has been purged, triggered by action: save_post
+[2026-06-09 15:25:10 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в гостиную" has been purged, triggered by action: save_post
+[2026-06-09 15:25:13 : INFO] - Cache for URL: https://msk.potolokbel.ru/natyazhnye-potolki-v-spalnyu/ has been purged, triggered by action: save_post
+[2026-06-09 15:25:13 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в спальню" has been purged, triggered by action: save_post
+[2026-06-09 15:25:16 : INFO] - Cache for URL: https://msk.potolokbel.ru/natyazhnye-potolki-v-koridor/ has been purged, triggered by action: save_post
+[2026-06-09 15:25:16 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в коридор" has been purged, triggered by action: save_post
+[2026-06-09 15:25:19 : INFO] - Cache for URL: https://msk.potolokbel.ru/balashikha/ has been purged, triggered by action: save_post
+[2026-06-09 15:25:19 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Балашихе" has been purged, triggered by action: save_post
+[2026-06-09 15:25:22 : INFO] - Cache for URL: https://msk.potolokbel.ru/himki/ has been purged, triggered by action: save_post
+[2026-06-09 15:25:22 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Химках" has been purged, triggered by action: save_post
+[2026-06-09 15:25:25 : INFO] - Cache for URL: https://msk.potolokbel.ru/mytishchi/ has been purged, triggered by action: save_post
+[2026-06-09 15:25:25 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Мытищах" has been purged, triggered by action: save_post
+[2026-06-09 15:25:27 : INFO] - Cache for URL: https://msk.potolokbel.ru/lyubercy/ has been purged, triggered by action: save_post
+[2026-06-09 15:25:27 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Люберцах" has been purged, triggered by action: save_post
+[2026-06-09 15:25:30 : INFO] - Cache for URL: https://msk.potolokbel.ru/podolsk/ has been purged, triggered by action: save_post
+[2026-06-09 15:25:30 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Подольске" has been purged, triggered by action: save_post
+[2026-06-09 15:25:33 : INFO] - Cache for URL: https://msk.potolokbel.ru/odincovo/ has been purged, triggered by action: save_post
+[2026-06-09 15:25:33 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Одинцово" has been purged, triggered by action: save_post
+[2026-06-09 15:25:36 : INFO] - Cache for URL: https://msk.potolokbel.ru/vidnoe/ has been purged, triggered by action: save_post
+[2026-06-09 15:25:36 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Видном" has been purged, triggered by action: save_post
+[2026-06-09 15:25:39 : INFO] - Cache for URL: https://msk.potolokbel.ru/reutov/ has been purged, triggered by action: save_post
+[2026-06-09 15:25:39 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Реутове" has been purged, triggered by action: save_post
+[2026-06-09 15:25:41 : INFO] - Cache for URL: https://msk.potolokbel.ru/korolev/ has been purged, triggered by action: save_post
+[2026-06-09 15:25:41 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Королеве" has been purged, triggered by action: save_post
+[2026-06-09 15:25:44 : INFO] - Cache for URL: https://msk.potolokbel.ru/domodedovo/ has been purged, triggered by action: save_post
+[2026-06-09 15:25:44 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Домодедово" has been purged, triggered by action: save_post
+[2026-06-09 15:25:47 : INFO] - Cache for URL: https://msk.potolokbel.ru/shchelkovo/ has been purged, triggered by action: save_post
+[2026-06-09 15:25:47 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Щелково" has been purged, triggered by action: save_post
+[2026-06-09 15:25:50 : INFO] - Cache for URL: https://msk.potolokbel.ru/krasnogorsk/ has been purged, triggered by action: save_post
+[2026-06-09 15:25:50 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Красногорске" has been purged, triggered by action: save_post
+[2026-06-09 15:25:53 : INFO] - Cache for URL: https://msk.potolokbel.ru/lobnya/ has been purged, triggered by action: save_post
+[2026-06-09 15:25:53 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Лобне" has been purged, triggered by action: save_post
+[2026-06-09 15:25:56 : INFO] - Cache for URL: https://msk.potolokbel.ru/dzerzhinskij/ has been purged, triggered by action: save_post
+[2026-06-09 15:25:56 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Дзержинском" has been purged, triggered by action: save_post
+[2026-06-09 15:25:59 : INFO] - Cache for URL: https://msk.potolokbel.ru/kotelniki/ has been purged, triggered by action: save_post
+[2026-06-09 15:25:59 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Котельниках" has been purged, triggered by action: save_post
+[2026-06-09 15:26:02 : INFO] - Cache for URL: https://msk.potolokbel.ru/lytkarino/ has been purged, triggered by action: save_post
+[2026-06-09 15:26:02 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Лыткарино" has been purged, triggered by action: save_post
+[2026-06-09 15:26:05 : INFO] - Cache for URL: https://msk.potolokbel.ru/fryazino/ has been purged, triggered by action: save_post
+[2026-06-09 15:26:05 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки во Фрязино" has been purged, triggered by action: save_post
+[2026-06-09 15:26:08 : INFO] - Cache for URL: https://msk.potolokbel.ru/ivanteevka/ has been purged, triggered by action: save_post
+[2026-06-09 15:26:08 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Ивантеевке" has been purged, triggered by action: save_post
+[2026-06-09 15:26:11 : INFO] - Cache for URL: https://msk.potolokbel.ru/pushkino/ has been purged, triggered by action: save_post
+[2026-06-09 15:26:11 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Пушкино" has been purged, triggered by action: save_post
+[2026-06-09 15:26:13 : INFO] - Cache for URL: https://msk.potolokbel.ru/dolgoprudnyj/ has been purged, triggered by action: save_post
+[2026-06-09 15:26:13 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Долгопрудном" has been purged, triggered by action: save_post
+[2026-06-09 15:26:16 : INFO] - Cache for URL: https://msk.potolokbel.ru/zhukovskij/ has been purged, triggered by action: save_post
+[2026-06-09 15:26:16 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Жуковском" has been purged, triggered by action: save_post
+[2026-06-09 15:26:19 : INFO] - Cache for URL: https://msk.potolokbel.ru/ramenskoe/ has been purged, triggered by action: save_post
+[2026-06-09 15:26:19 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Раменском" has been purged, triggered by action: save_post
+[2026-06-09 15:26:22 : INFO] - Cache for URL: https://msk.potolokbel.ru/aprelevka/ has been purged, triggered by action: save_post
+[2026-06-09 15:26:22 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Апрелевке" has been purged, triggered by action: save_post
+[2026-06-09 15:26:25 : INFO] - Cache for URL: https://msk.potolokbel.ru/golicyno/ has been purged, triggered by action: save_post
+[2026-06-09 15:26:25 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Голицыно" has been purged, triggered by action: save_post
+[2026-06-09 15:26:28 : INFO] - Cache for URL: https://msk.potolokbel.ru/zelenograd/ has been purged, triggered by action: save_post
+[2026-06-09 15:26:28 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Зеленограде" has been purged, triggered by action: save_post
+[2026-06-09 15:26:31 : INFO] - Cache for URL: https://msk.potolokbel.ru/nahabino/ has been purged, triggered by action: save_post
+[2026-06-09 15:26:31 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Нахабино" has been purged, triggered by action: save_post
+[2026-06-09 15:26:34 : INFO] - Cache for URL: https://msk.potolokbel.ru/krasnoznamensk/ has been purged, triggered by action: save_post
+[2026-06-09 15:26:34 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Краснознаменске" has been purged, triggered by action: save_post
+[2026-06-09 15:26:37 : INFO] - Cache for URL: https://msk.potolokbel.ru/staraya-kupavna/ has been purged, triggered by action: save_post
+[2026-06-09 15:26:37 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Старой Купавне" has been purged, triggered by action: save_post
+[2026-06-09 15:26:39 : INFO] - Cache for URL: https://msk.potolokbel.ru/zheleznodorozhnyj/ has been purged, triggered by action: save_post
+[2026-06-09 15:26:39 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Железнодорожном" has been purged, triggered by action: save_post
+[2026-06-09 15:26:42 : INFO] - Cache for URL: https://msk.potolokbel.ru/troick/ has been purged, triggered by action: save_post
+[2026-06-09 15:26:42 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Троицке" has been purged, triggered by action: save_post
+[2026-06-09 15:26:45 : INFO] - Cache for URL: https://msk.potolokbel.ru/shcherbinka/ has been purged, triggered by action: save_post
+[2026-06-09 15:26:45 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Щербинке" has been purged, triggered by action: save_post
+[2026-06-09 15:26:48 : INFO] - Cache for URL: https://msk.potolokbel.ru/kokoshkino/ has been purged, triggered by action: save_post
+[2026-06-09 15:26:48 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Кокошкино" has been purged, triggered by action: save_post
+[2026-06-09 15:26:51 : INFO] - Cache for URL: https://msk.potolokbel.ru/moskovskij/ has been purged, triggered by action: save_post
+[2026-06-09 15:26:51 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Московском" has been purged, triggered by action: save_post
+[2026-06-09 15:26:54 : INFO] - Cache for URL: https://msk.potolokbel.ru/vlasikha/ has been purged, triggered by action: save_post
+[2026-06-09 15:26:54 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки во Власихе" has been purged, triggered by action: save_post
+[2026-06-09 15:26:57 : INFO] - Cache for URL: https://msk.potolokbel.ru/dedovsk/ has been purged, triggered by action: save_post
+[2026-06-09 15:26:57 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Дедовске" has been purged, triggered by action: save_post
+[2026-06-09 15:27:00 : INFO] - Cache for URL: https://msk.potolokbel.ru/monino/ has been purged, triggered by action: save_post
+[2026-06-09 15:27:00 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Монино" has been purged, triggered by action: save_post
+[2026-06-09 15:27:02 : INFO] - Cache for URL: https://msk.potolokbel.ru/losino-petrovskij/ has been purged, triggered by action: save_post
+[2026-06-09 15:27:02 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Лосино-Петровском" has been purged, triggered by action: save_post
+[2026-06-09 15:27:05 : INFO] - Cache for URL: https://msk.potolokbel.ru/obuhovo/ has been purged, triggered by action: save_post
+[2026-06-09 15:27:05 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Обухово" has been purged, triggered by action: save_post
+[2026-06-09 15:27:08 : INFO] - Cache for URL: https://msk.potolokbel.ru/elektrougli/ has been purged, triggered by action: save_post
+[2026-06-09 15:27:08 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Электроуглях" has been purged, triggered by action: save_post
+[2026-06-09 15:27:11 : INFO] - Cache for URL: https://msk.potolokbel.ru/kommunarka/ has been purged, triggered by action: save_post
+[2026-06-09 15:27:11 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Коммунарке" has been purged, triggered by action: save_post
+[2026-06-09 15:27:14 : INFO] - Cache for URL: https://msk.potolokbel.ru/kak-vybrat-natyazhnoj-potolok/ has been purged, triggered by action: save_post
+[2026-06-09 15:27:14 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Как выбрать натяжной потолок" has been purged, triggered by action: save_post
+[2026-06-09 15:27:17 : INFO] - Cache for URL: https://msk.potolokbel.ru/matovyj-ili-glyancevyj-potolok/ has been purged, triggered by action: save_post
+[2026-06-09 15:27:17 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Матовый или глянцевый потолок" has been purged, triggered by action: save_post
+[2026-06-09 15:27:20 : INFO] - Cache for URL: https://msk.potolokbel.ru/plyusy-i-minusy-natyazhnyh-potolkov/ has been purged, triggered by action: save_post
+[2026-06-09 15:27:20 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Плюсы и минусы натяжных потолков" has been purged, triggered by action: save_post
+[2026-06-09 15:27:23 : INFO] - Cache for URL: https://msk.potolokbel.ru/srok-sluzhby-natyazhnyh-potolkov/ has been purged, triggered by action: save_post
+[2026-06-09 15:27:23 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Срок службы натяжных потолков" has been purged, triggered by action: save_post
+[2026-06-09 15:27:26 : INFO] - Cache for URL: https://msk.potolokbel.ru/mozhno-li-stavit-natyazhnoj-potolok-zimoj/ has been purged, triggered by action: save_post
+[2026-06-09 15:27:26 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Можно ли ставить натяжной потолок зимой" has been purged, triggered by action: save_post
+[2026-06-09 15:27:29 : INFO] - Cache for URL: https://msk.potolokbel.ru/natyazhnoj-potolok-v-vannoj/ has been purged, triggered by action: save_post
+[2026-06-09 15:27:29 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжной потолок в ванной" has been purged, triggered by action: save_post
