@@ -165,3 +165,13 @@
 [2026-06-09 16:21:07 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Замена полотна натяжного потолка" has been purged, triggered by action: save_post
 [2026-06-09 16:24:12 : INFO] - Cache for URL: https://msk.potolokbel.ru/uslugi/ has been purged, triggered by action: save_post
 [2026-06-09 16:24:12 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Услуги" has been purged, triggered by action: save_post
+[2026-06-09 16:36:14 : INFO] - Cache for URL: https://msk.potolokbel.ru/bezramnye-svetilniki/ has been purged, triggered by action: save_post
+[2026-06-09 16:36:14 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Безрамные светильники" has been purged, triggered by action: save_post
+[2026-06-09 16:36:17 : INFO] - Cache for URL: https://msk.potolokbel.ru/nakladnye-treki/ has been purged, triggered by action: save_post
+[2026-06-09 16:36:17 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Треки накладные" has been purged, triggered by action: save_post
+[2026-06-09 16:36:20 : INFO] - Cache for URL: https://msk.potolokbel.ru/podvesnye-treki/ has been purged, triggered by action: save_post
+[2026-06-09 16:36:20 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Треки подвесные" has been purged, triggered by action: save_post
+[2026-06-09 16:36:22 : INFO] - Cache for URL: https://msk.potolokbel.ru/lajtboksy/ has been purged, triggered by action: save_post
+[2026-06-09 16:36:22 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Лайтбоксы" has been purged, triggered by action: save_post
+[2026-06-09 16:38:29 : INFO] - Cache for URL: https://msk.potolokbel.ru/uslugi/ has been purged, triggered by action: save_post
+[2026-06-09 16:38:30 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Услуги" has been purged, triggered by action: save_post
