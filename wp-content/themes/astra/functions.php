@@ -213,69 +213,70 @@ require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-filters.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-hooks.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-functions.php';
 
+/**
+ * Final UI Fixes for Navigation Menu
+ */
 add_action('wp_head', function() {
     ?>
-    <style id="custom-menu-fixes">
-        /* 1. NON-TRANSPARENT MENU */
-        .main-header-bar,
-        .ast-header-break-point .main-header-bar {
-            background-color: #ffb400 !important; /* Keep your header color */
-        }
-
-        /* Submenus MUST be solid white and overlap everything */
-        .main-header-bar .main-header-menu .sub-menu,
-        .ast-header-break-point .main-header-bar .main-header-menu .sub-menu,
+    <style id="ultimate-menu-fixes">
+        /* 1. FORCE NON-TRANSPARENT SUBMENUS */
         .main-header-menu .sub-menu,
-        #ast-hf-menu-3 .sub-menu {
+        .ast-header-break-point .main-header-bar .main-header-menu .sub-menu {
             background-color: #ffffff !important;
+            background: #ffffff !important;
             opacity: 1 !important;
-            visibility: visible !important;
-            display: block; /* For testing, will be toggled by JS/Hover */
-            box-shadow: 0 15px 45px rgba(0,0,0,0.2) !important;
-            z-index: 999999 !important;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.15) !important;
+            border-radius: 4px;
         }
 
-        /* Ensure links are dark and visible */
+        /* Ensure text is dark and background is solid white even on hover */
         .main-header-menu .sub-menu .menu-item a {
-            color: #222222 !important;
-            background-color: #ffffff !important;
+            color: #333333 !important;
+            background: #ffffff !important;
             opacity: 1 !important;
-            padding: 12px 25px !important;
-            border-bottom: 1px solid #eeeeee;
+            padding: 10px 20px !important;
+            display: block !important;
         }
 
-        /* 2. PREVENT GOING BELOW SCREEN */
+        .main-header-menu .sub-menu .menu-item a:hover {
+            background-color: #f5f5f5 !important;
+            color: #ffb400 !important;
+        }
+
+        /* 2. PREVENT MENU FROM GOING BELOW SCREEN */
         @media (min-width: 992px) {
-            .main-header-menu .menu-item-has-children > .sub-menu {
-                max-height: 80vh !important;
+            .main-header-menu .menu-item-has-children:hover > .sub-menu {
+                max-height: 75vh !important;
                 overflow-y: auto !important;
-                position: absolute !important;
-                top: 100% !important;
+                scrollbar-width: thin;
             }
 
-            /* 3. TWO COLUMNS FOR CITIES */
-            .mega-menu-cols > .sub-menu {
-                min-width: 650px !important;
+            /* Enable 2-column layout for any dropdown with 'mega-menu' class */
+            .ast-menu-mega-column > .sub-menu {
+                min-width: 600px !important;
                 display: flex !important;
                 flex-wrap: wrap !important;
                 flex-direction: row !important;
-                padding: 15px !important;
             }
-            .mega-menu-cols > .sub-menu > .menu-item {
+            .ast-menu-mega-column > .sub-menu > .menu-item {
                 flex: 0 0 50% !important;
                 width: 50% !important;
-                border: none !important;
-            }
-            .mega-menu-cols > .sub-menu > .menu-item a {
-                border: none !important;
             }
         }
 
-        /* Fix Astra hover behavior to ensure opacity 1 */
-        .main-header-menu li:hover > .sub-menu,
-        .main-header-menu li.focus > .sub-menu {
-            opacity: 1 !important;
-            visibility: visible !important;
+        /* 3. FOOTER MENU STYLING (if displayed as list) */
+        .footer-navigation ul {
+            display: flex;
+            flex-wrap: wrap;
+            list-style: none;
+            padding: 0;
+        }
+        .footer-navigation li {
+            width: 25%; /* 4 columns for cities in footer */
+            padding: 5px;
+        }
+        @media (max-width: 768px) {
+            .footer-navigation li { width: 50%; }
         }
     </style>
     <?php
