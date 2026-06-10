@@ -175,3 +175,11 @@
 [2026-06-09 16:36:22 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Лайтбоксы" has been purged, triggered by action: save_post
 [2026-06-09 16:38:29 : INFO] - Cache for URL: https://msk.potolokbel.ru/uslugi/ has been purged, triggered by action: save_post
 [2026-06-09 16:38:30 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Услуги" has been purged, triggered by action: save_post
+[2026-06-10 12:53:24 : INFO] - Cache for URL: https://msk.potolokbel.ru/montazh-natyazhnyh-potolkov/ has been purged, triggered by action: wp_trash_post
+[2026-06-10 12:53:31 : INFO] - Cache for URL: https://msk.potolokbel.ru/natyazhnye-potolki-pod-klyuch/ has been purged, triggered by action: wp_trash_post
+[2026-06-10 12:53:37 : INFO] - Cache for URL: https://msk.potolokbel.ru/zakazat-natyazhnye-potolki/ has been purged, triggered by action: wp_trash_post
+[2026-06-10 12:53:42 : INFO] - Cache for URL: https://msk.potolokbel.ru/natyazhnye-potolki-moskva/ has been purged, triggered by action: wp_trash_post
+[2026-06-10 12:53:49 : INFO] - Cache for URL: https://msk.potolokbel.ru/tenevoy-natyajnoy-potolok/ has been purged, triggered by action: wp_trash_post
+[2026-06-10 12:54:05 : INFO] - Cache for URL: https://msk.potolokbel.ru/paraschii-potolok/ has been purged, triggered by action: wp_trash_post
+[2026-06-10 12:54:37 : INFO] - Cache for URL: https://msk.potolokbel.ru/ustanovka-natyazhnyh-potolkov/ has been purged, triggered by action: save_post
+[2026-06-10 12:54:37 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Установка натяжных потолков" has been purged, triggered by action: save_post
