@@ -212,3 +212,72 @@ require_once ASTRA_THEME_DIR . 'inc/abilities/bootstrap.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-filters.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-hooks.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-functions.php';
+
+/**
+ * Final UI Fixes for Navigation Menu
+ */
+add_action('wp_head', function() {
+    ?>
+    <style id="ultimate-menu-fixes">
+        /* 1. FORCE NON-TRANSPARENT SUBMENUS */
+        .main-header-menu .sub-menu,
+        .ast-header-break-point .main-header-bar .main-header-menu .sub-menu {
+            background-color: #ffffff !important;
+            background: #ffffff !important;
+            opacity: 1 !important;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.15) !important;
+            border-radius: 4px;
+        }
+
+        /* Ensure text is dark and background is solid white even on hover */
+        .main-header-menu .sub-menu .menu-item a {
+            color: #333333 !important;
+            background: #ffffff !important;
+            opacity: 1 !important;
+            padding: 10px 20px !important;
+            display: block !important;
+        }
+
+        .main-header-menu .sub-menu .menu-item a:hover {
+            background-color: #f5f5f5 !important;
+            color: #ffb400 !important;
+        }
+
+        /* 2. PREVENT MENU FROM GOING BELOW SCREEN */
+        @media (min-width: 992px) {
+            .main-header-menu .menu-item-has-children:hover > .sub-menu {
+                max-height: 75vh !important;
+                overflow-y: auto !important;
+                scrollbar-width: thin;
+            }
+
+            /* Enable 2-column layout for any dropdown with 'mega-menu' class */
+            .ast-menu-mega-column > .sub-menu {
+                min-width: 600px !important;
+                display: flex !important;
+                flex-wrap: wrap !important;
+                flex-direction: row !important;
+            }
+            .ast-menu-mega-column > .sub-menu > .menu-item {
+                flex: 0 0 50% !important;
+                width: 50% !important;
+            }
+        }
+
+        /* 3. FOOTER MENU STYLING (if displayed as list) */
+        .footer-navigation ul {
+            display: flex;
+            flex-wrap: wrap;
+            list-style: none;
+            padding: 0;
+        }
+        .footer-navigation li {
+            width: 25%; /* 4 columns for cities in footer */
+            padding: 5px;
+        }
+        @media (max-width: 768px) {
+            .footer-navigation li { width: 50%; }
+        }
+    </style>
+    <?php
+}, 999);
