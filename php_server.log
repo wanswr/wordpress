@@ -1,238 +1,68 @@
-[Sun Jun 28 09:35:56 2026] PHP 8.3.6 Development Server (http://0.0.0.0:8000) started
-[Sun Jun 28 09:35:58 2026] 127.0.0.1:43964 Accepted
-[Sun Jun 28 09:36:29 2026] 127.0.0.1:43964 Closing
-[Sun Jun 28 09:36:29 2026] 127.0.0.1:39504 Accepted
-[Sun Jun 28 09:36:59 2026] 127.0.0.1:39504 [200]: POST /wp-cron.php?doing_wp_cron=1782639387.9271409511566162109375
-[Sun Jun 28 09:36:59 2026] 127.0.0.1:39504 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34054 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34054 [200]: GET /
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34054 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34060 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34070 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34074 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34080 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34092 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34098 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34060 [200]: GET /wp-content/cache/wpo-minify/1782560542/assets/wpo-minify-header-298d27eb.min.css
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34060 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34070 [200]: GET /wp-includes/js/jquery/jquery.min.js?ver=3.7.1
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34070 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34074 [200]: GET /wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34080 [200]: GET /wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=4.1.1
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34092 [200]: GET /wp-content/uploads/2023/07/2022_07_29_18_38_IMG_0311-scaled-e1689667984652-300x223.jpg
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34098 [200]: GET /wp-content/uploads/2023/07/55FFFBCF-D95F-4687-BE44-E27B3D6B3040-300x300.jpg
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34074 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34080 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34092 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34098 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34106 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34110 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34106 [200]: GET /wp-content/uploads/2023/07/E95BE572-6E99-484F-913F-CBBAD86F62B5-300x300.jpg
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34110 [200]: GET /wp-content/uploads/2023/07/8D2E4101-C484-4FD6-9949-92C836E43D51-300x300.jpg
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34106 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34110 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34118 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34130 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34118 [200]: GET /wp-content/cache/wpo-minify/1782560542/assets/wpo-minify-footer-92f51290.min.css
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34130 [200]: GET /wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34118 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34130 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34144 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34144 [200]: GET /wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.13.4
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34144 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34150 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34150 [200]: GET /wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.1.1
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34150 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34156 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34156 [200]: GET /wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.1.1
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34156 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34158 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34158 [200]: GET /wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.1.1
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34158 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34166 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34166 [200]: GET /wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34166 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34168 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34168 [200]: GET /wp-content/cache/wpo-minify/1782560542/assets/wpo-minify-footer-wpr-particles1782480529.min.js
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34168 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34170 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34170 [200]: GET /wp-content/plugins/royal-elementor-addons/assets/js/lib/jarallax/jarallax.min.js?ver=1.12.7
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34170 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34180 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34180 [200]: GET /wp-content/plugins/royal-elementor-addons/assets/js/lib/parallax/parallax.min.js?ver=1.0
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34180 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34184 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34184 [200]: GET /wp-content/cache/wpo-minify/1782560542/assets/wpo-minify-footer-hfe-frontend-js1782480528.min.js
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34184 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34192 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34192 [200]: GET /wp-content/plugins/royal-elementor-addons/assets/js/frontend.min.js?ver=1.7.1062
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34192 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34200 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34200 [200]: GET /wp-content/plugins/royal-elementor-addons/assets/js/modal-popups.min.js?ver=1.7.1062
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34200 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34204 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34204 [200]: GET /wp-includes/js/underscore.min.js?ver=1.13.8
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34204 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34216 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34216 [200]: GET /wp-includes/js/wp-util.min.js?ver=7.0
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34216 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34224 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34230 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34224 [200]: GET /wp-content/plugins/wpforms-lite/assets/js/frontend/wpforms.min.js?ver=1.10.1.1
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34230 [200]: GET /wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.10.1.1
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34224 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34230 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34240 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34240 [200]: GET /wp-content/plugins/wpforms-lite/assets/lib/jquery.validate.min.js?ver=1.21.0
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34240 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34248 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34248 [200]: GET /wp-content/plugins/wpforms-lite/assets/js/share/utils.min.js?ver=1.10.1.1
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34248 Closing
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34262 Accepted
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34262 [200]: GET /wp-content/plugins/wpforms-lite/assets/js/frontend/fields/address.min.js?ver=1.10.1.1
-[Sun Jun 28 09:38:03 2026] 127.0.0.1:34262 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34264 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34264 [200]: GET /wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34264 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34270 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34270 [200]: GET /wp-content/uploads/2023/07/593434F4-3994-4418-9B10-B47574C87EE2-300x300.jpg
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34270 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34280 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34296 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34304 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34316 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34320 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34326 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34280 [200]: GET /wp-content/uploads/2023/07/2022_10_10_14_51_IMG_1256-scaled-225x300.jpg
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34296 [200]: GET /wp-content/uploads/2023/07/2022_10_10_10_48_IMG_1244-scaled-225x300.jpg
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34304 [200]: GET /wp-content/uploads/2023/07/06f7fe24-2f4f-497d-b1d6-99bfbea47bf2-1-300x300.jpg
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34316 [200]: GET /wp-content/uploads/2023/07/012d35101e043f85e6e673798fe1b05a579dfc23ca-225x300.jpg
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34320 [200]: GET /wp-content/uploads/2023/07/8A920888-43D0-4073-BD8F-ED6691755C4B-300x300.jpg
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34326 [200]: GET /wp-content/uploads/2023/07/2022_07_30_15_04_IMG_0341-scaled-225x300.jpg
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34280 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34296 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34304 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34316 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34320 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34326 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34342 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34358 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34374 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34376 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34392 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34398 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34342 [200]: GET /wp-content/uploads/2023/07/2022_07_30_15_02_IMG_0332-scaled-225x300.jpg
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34358 [200]: GET /wp-content/uploads/2023/07/2022_10_10_10_49_IMG_1245-scaled-225x300.jpg
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34374 [200]: GET /wp-content/uploads/2023/07/2022_06_17_11_45_IMG_9725-225x300.jpg
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34376 [200]: GET /wp-content/uploads/2023/07/dx1eqmt7u6c-1-560x420-1-300x225.jpeg
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34392 [200]: GET /wp-includes/js/comment-reply.min.js?ver=7.0
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34398 [200]: GET /wp-content/plugins/royal-elementor-addons/assets/css/frontend.min.css?ver=1.7.1062
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34342 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34358 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34374 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34376 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34392 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34398 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34406 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34406 [200]: GET /wp-content/uploads/2023/07/2023_05_11_19_20_IMG_4245.jpg
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34406 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34416 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34416 [200]: GET /wp-content/uploads/2023/07/06f7fe24-2f4f-497d-b1d6-99bfbea47bf2-1.jpg
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34416 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34432 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34442 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34452 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34466 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34480 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34432 [200]: GET /wp-content/uploads/2023/07/8A920888-43D0-4073-BD8F-ED6691755C4B.jpg
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34442 [200]: GET /wp-content/uploads/2023/07/2023_05_11_11_29_IMG_4167-scaled.jpg
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34442 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34452 [200]: GET /wp-content/uploads/2023/07/2022_10_10_10_49_IMG_1245-scaled.jpg
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34432 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34452 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34466 [200]: GET /wp-content/uploads/2023/07/2022_10_10_14_50_IMG_1249-scaled.jpg
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34466 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34480 [200]: GET /wp-content/uploads/2023/07/2022_07_29_18_37_IMG_0305-scaled.jpg
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34480 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34488 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34496 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34498 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34506 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34510 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34488 [200]: GET /wp-content/uploads/2023/07/tenevye-potolki-meta-300x225.jpeg
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34496 [200]: GET /wp-content/uploads/2023/07/01b7a771532cc39ffeea00b70799eea2e07063e730-e1690213614621-300x218.jpg
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34498 [200]: GET /wp-content/uploads/2023/07/01a9aea8e56b0d1c4dd607d4b58d8adc26efbae9a2-1-e1688928196384-300x231.jpg
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34506 [200]: GET /wp-content/uploads/2023/07/01c55e731fcdcab786e2d0fbdc99e65ae2718c7505_00001-e1688927938143-300x225.jpg
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34510 [200]: GET /wp-content/uploads/2023/07/6jqctqltrnq-608x811-1-300x225.jpeg
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34488 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34496 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34498 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34506 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34510 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34522 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34522 [200]: GET /wp-content/plugins/elementor/assets/js/section-frontend-handlers.d85ab872da118940910d.bundle.min.js
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34522 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34524 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34524 [200]: GET /wp-content/plugins/elementor/assets/js/shared-frontend-handlers.03caa53373b56d3bab67.bundle.min.js
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34524 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34538 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34538 [200]: GET /wp-content/plugins/elementor/assets/js/text-editor.45609661e409413f1cef.bundle.min.js
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34538 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34546 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34546 [200]: GET /wp-content/plugins/elementor/assets/js/image-carousel.6167d20b95b33386757b.bundle.min.js
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34546 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34550 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34550 [200]: GET /wp-content/plugins/elementor/assets/js/accordion.8b0db5058afeb74622f5.bundle.min.js
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34550 Closing
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34552 Accepted
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34552 [200]: GET /wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
-[Sun Jun 28 09:38:04 2026] 127.0.0.1:34552 Closing
-[Sun Jun 28 09:38:07 2026] 127.0.0.1:34556 Accepted
-[Sun Jun 28 09:38:07 2026] 127.0.0.1:34556 Closing
-[Sun Jun 28 09:38:07 2026] 127.0.0.1:34572 Accepted
-[Sun Jun 28 09:38:07 2026] 127.0.0.1:34578 Accepted
-[Sun Jun 28 09:38:07 2026] 127.0.0.1:34580 Accepted
-[Sun Jun 28 09:38:07 2026] 127.0.0.1:34596 Accepted
-[Sun Jun 28 09:38:07 2026] 127.0.0.1:34572 [200]: GET /wp-content/cache/wpo-minify/1782560542/assets/wpo-minify-header-af3e8c47.min.css
-[Sun Jun 28 09:38:07 2026] 127.0.0.1:34572 Closing
-[Sun Jun 28 09:38:07 2026] 127.0.0.1:34578 [200]: GET /wp-includes/js/jquery/jquery.min.js?ver=3.7.1
-[Sun Jun 28 09:38:07 2026] 127.0.0.1:34580 [200]: GET /wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
-[Sun Jun 28 09:38:07 2026] 127.0.0.1:34596 [200]: GET /wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=4.1.1
-[Sun Jun 28 09:38:07 2026] 127.0.0.1:34578 Closing
-[Sun Jun 28 09:38:07 2026] 127.0.0.1:34580 Closing
-[Sun Jun 28 09:38:07 2026] 127.0.0.1:34596 Closing
-[Sun Jun 28 09:38:07 2026] 127.0.0.1:34610 Accepted
-[Sun Jun 28 09:38:07 2026] 127.0.0.1:34614 Accepted
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:34610 Closing
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:34630 Accepted
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:34614 [200]: GET /wp-content/cache/wpo-minify/1782560542/assets/wpo-minify-footer-581b28fc.min.css
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:34640 Accepted
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:34630 [200]: GET /wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.13.4
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:34652 Accepted
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:34614 Closing
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:34640 [200]: GET /wp-content/cache/wpo-minify/1782560542/assets/wpo-minify-footer-wpr-particles1782480529.min.js
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:34658 Accepted
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:34630 Closing
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:34652 [200]: GET /wp-content/plugins/royal-elementor-addons/assets/js/lib/jarallax/jarallax.min.js?ver=1.12.7
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:50784 Accepted
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:34658 [200]: GET /wp-content/plugins/royal-elementor-addons/assets/js/lib/parallax/parallax.min.js?ver=1.0
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:34640 Closing
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:50792 Accepted
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:50784 Closed without sending a request; it was probably just an unused speculative preconnection
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:50784 Closing
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:34652 Closing
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:50800 Accepted
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:50792 Closed without sending a request; it was probably just an unused speculative preconnection
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:50792 Closing
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:34658 Closing
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:50804 Accepted
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:50800 Closed without sending a request; it was probably just an unused speculative preconnection
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:50800 Closing
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:50820 Accepted
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:50804 Closed without sending a request; it was probably just an unused speculative preconnection
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:50804 Closing
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:50830 Accepted
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:50820 Closed without sending a request; it was probably just an unused speculative preconnection
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:50820 Closing
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:50830 Closed without sending a request; it was probably just an unused speculative preconnection
-[Sun Jun 28 09:38:46 2026] 127.0.0.1:50830 Closing
+[Sun Jun 28 11:43:08 2026] PHP 8.3.6 Development Server (http://0.0.0.0:8000) started
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53772 Accepted
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53772 [200]: GET /balashikha/
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53772 Closing
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53780 Accepted
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53788 Accepted
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53796 Accepted
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53802 Accepted
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53818 Accepted
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53820 Accepted
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53780 [200]: GET /wp-content/cache/wpo-minify/1782560542/assets/wpo-minify-header-af3e8c47.min.css
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53780 Closing
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53788 [200]: GET /wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53796 [200]: GET /wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53802 [200]: GET /wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=4.1.1
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53818 [200]: GET /wp-content/uploads/2023/07/%D1%87%D0%B5%D1%80%D0%BD-%D0%BB%D0%B8%D1%86%D0%BE-2-e1688675969206-300x103.png
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53820 [200]: GET /wp-content/cache/wpo-minify/1782560542/assets/wpo-minify-footer-581b28fc.min.css
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53788 Closing
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53796 Closing
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53802 Closing
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53818 Closing
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53820 Closing
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53830 Accepted
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53840 Accepted
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53830 [200]: GET /wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.13.4
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53830 Closing
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53840 [200]: GET /wp-content/cache/wpo-minify/1782560542/assets/wpo-minify-footer-wpr-particles1782480529.min.js
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53840 Closing
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53852 Accepted
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53856 Accepted
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53852 [200]: GET /wp-content/plugins/royal-elementor-addons/assets/js/lib/jarallax/jarallax.min.js?ver=1.12.7
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53856 [200]: GET /wp-content/plugins/royal-elementor-addons/assets/js/lib/parallax/parallax.min.js?ver=1.0
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53852 Closing
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53856 Closing
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53868 Accepted
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53874 Accepted
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53868 [200]: GET /wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.1.1
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53874 [200]: GET /wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.1.1
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53868 Closing
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53874 Closing
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53884 Accepted
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53884 [200]: GET /wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53884 Closing
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53892 Accepted
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53892 [200]: GET /wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.1.1
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53892 Closing
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53906 Accepted
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53906 [200]: GET /wp-content/cache/wpo-minify/1782560542/assets/wpo-minify-footer-hfe-frontend-js1782480528.min.js
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53906 Closing
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53920 Accepted
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53936 Accepted
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53920 [200]: GET /wp-content/plugins/royal-elementor-addons/assets/js/frontend.min.js?ver=1.7.1062
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53936 [200]: GET /wp-content/plugins/royal-elementor-addons/assets/js/modal-popups.min.js?ver=1.7.1062
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53936 Closing
+[Sun Jun 28 11:43:12 2026] 127.0.0.1:53920 Closing
+[Sun Jun 28 11:43:13 2026] 127.0.0.1:53952 Accepted
+[Sun Jun 28 11:43:13 2026] 127.0.0.1:53952 [200]: GET /wp-content/plugins/royal-elementor-addons/assets/css/frontend.min.css?ver=1.7.1062
+[Sun Jun 28 11:43:13 2026] 127.0.0.1:53952 Closing
+[Sun Jun 28 11:43:13 2026] 127.0.0.1:53956 Accepted
+[Sun Jun 28 11:43:13 2026] 127.0.0.1:53962 Accepted
+[Sun Jun 28 11:43:13 2026] 127.0.0.1:53956 [200]: GET /wp-content/plugins/elementor/assets/js/section-frontend-handlers.d85ab872da118940910d.bundle.min.js
+[Sun Jun 28 11:43:13 2026] 127.0.0.1:53956 Closing
+[Sun Jun 28 11:43:13 2026] 127.0.0.1:53962 [200]: GET /wp-content/plugins/elementor/assets/js/shared-frontend-handlers.03caa53373b56d3bab67.bundle.min.js
+[Sun Jun 28 11:43:13 2026] 127.0.0.1:53962 Closing
+[Sun Jun 28 11:43:13 2026] 127.0.0.1:53970 Accepted
+[Sun Jun 28 11:43:13 2026] 127.0.0.1:53970 [200]: GET /wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+[Sun Jun 28 11:43:13 2026] 127.0.0.1:53970 Closing
+[Sun Jun 28 11:43:14 2026] 127.0.0.1:53972 Accepted
