@@ -133,3 +133,5 @@
 [2026-06-27 15:21:13 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Электроуглях" has been purged, triggered by action: save_post
 [2026-06-27 15:21:30 : INFO] - Cache for URL: https://msk.potolokbel.ru/obuhovo/ has been purged, triggered by action: save_post
 [2026-06-27 15:21:30 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки в Обухово" has been purged, triggered by action: save_post
+[2026-06-28 08:55:03 : INFO] - Cache for URL: https://msk.potolokbel.ru/ has been purged, triggered by action: save_post
+[2026-06-28 08:55:04 : INFO] - Cache for author page URL: https://msk.potolokbel.ru/author/wanswr/ associated with post_type: page and Title: "Натяжные потолки" has been purged, triggered by action: save_post
