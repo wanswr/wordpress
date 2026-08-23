@@ -212,3 +212,45 @@ require_once ASTRA_THEME_DIR . 'inc/abilities/bootstrap.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-filters.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-hooks.php';
 require_once ASTRA_THEME_DIR . 'inc/core/deprecated/deprecated-functions.php';
+
+/**
+ * Custom SEO Landing Page Styles
+ */
+function msk_potolok_custom_styles() {
+    echo '<style>
+        .seo-section { margin: 60px 0; font-family: sans-serif; line-height: 1.6; color: #333; }
+        .seo-grid { display: flex; flex-wrap: wrap; gap: 30px; margin-top: 30px; }
+        .seo-col-3 { flex: 1; min-width: 300px; background: #f9f9f9; padding: 25px; border-radius: 8px; box-shadow: 0 2px 15px rgba(0,0,0,0.05); }
+        .seo-col-2 { flex: 1; min-width: 450px; }
+        .seo-title { font-size: 28px; font-weight: bold; margin-bottom: 25px; text-align: center; color: #222; }
+        .seo-benefit-icon { font-size: 40px; margin-bottom: 15px; color: #0073aa; }
+
+        .faq-item { border-bottom: 1px solid #eee; padding: 15px 0; }
+        .faq-question { font-weight: bold; cursor: pointer; display: flex; justify-content: space-between; align-items: center; font-size: 18px; }
+        .faq-answer { margin-top: 10px; display: none; color: #666; }
+        .faq-item.active .faq-answer { display: block; }
+
+        .cta-box { background: #0073aa; color: #fff; padding: 40px; border-radius: 12px; text-align: center; margin: 50px 0; }
+        .cta-button { display: inline-block; background: #ffcc00; color: #000; padding: 15px 35px; border-radius: 50px; text-decoration: none; font-weight: bold; margin-top: 20px; transition: transform 0.2s; }
+        .cta-button:hover { transform: scale(1.05); color: #000; }
+
+        .commercial-table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        .commercial-table td { padding: 12px; border-bottom: 1px solid #eee; }
+        .commercial-table td:last-child { text-align: right; font-weight: bold; }
+
+        @media (max-width: 768px) {
+            .seo-col-3, .seo-col-2 { min-width: 100%; }
+        }
+    </style>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            var faqs = document.querySelectorAll(".faq-question");
+            faqs.forEach(function(q) {
+                q.addEventListener("click", function() {
+                    this.parentElement.classList.toggle("active");
+                });
+            });
+        });
+    </script>';
+}
+add_action("wp_head", "msk_potolok_custom_styles");
